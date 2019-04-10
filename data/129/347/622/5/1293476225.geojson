@@ -1,0 +1,61 @@
+{
+  "id": 1293476225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.01667,-15.4,166.01667,-15.4",
+    "geom:latitude":-15.4,
+    "geom:longitude":166.01667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tombaesar",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134541,
+    "gn:latitude":-15.4,
+    "gn:longitude":166.01667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Tombaesar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134541
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"07bbdb4434a4f09c7c1ed18c91a1dd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293476225,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293476225,
+    "wof:lastmodified":1536803294,
+    "wof:name":"Tombaesar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.01667,
+    -15.4,
+    166.01667,
+    -15.4
+],
+  "geometry": {"coordinates":[166.01667,-15.4],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1193004497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.1,-15.16667,167.1,-15.16667",
+    "geom:latitude":-15.16667,
+    "geom:longitude":167.1,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Loarou",
+    "gn:country_code":"VU",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136383,
+    "gn:latitude":-15.16667,
+    "gn:longitude":167.1,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Loarou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136383
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"a418436bdbac98c8478e26dbad2dc47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1193004497,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1193004497,
+    "wof:lastmodified":1536366991,
+    "wof:name":"Loarou",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.1,
+    -15.16667,
+    167.1,
+    -15.16667
+],
+  "geometry": {"coordinates":[167.09999999999999,-15.16667],"type":"Point"}
+}

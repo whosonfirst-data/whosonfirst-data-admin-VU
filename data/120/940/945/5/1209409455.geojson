@@ -1,0 +1,66 @@
+{
+  "id": 1209409455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.48333,-13.91667,167.48333,-13.91667",
+    "geom:latitude":-13.91667,
+    "geom:longitude":167.48333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kerembitia",
+    "gn:cc2":"VU",
+    "gn:country_code":"VU",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136776,
+    "gn:latitude":-13.91667,
+    "gn:longitude":167.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"K\u00e9r\u00e9mbitia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cr\u00e9p\u00e9ta",
+        "K\u00e9r\u00e9mbitia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136776
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"fc66a3f33d3411ecc8bfc971ca68adb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209409455
+        }
+    ],
+    "wof:id":1209409455,
+    "wof:lastmodified":1537714748,
+    "wof:name":"Kerembitia",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.48333,
+    -13.91667,
+    167.48333,
+    -13.91667
+],
+  "geometry": {"coordinates":[167.48333,-13.91667],"type":"Point"}
+}

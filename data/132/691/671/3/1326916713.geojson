@@ -1,0 +1,61 @@
+{
+  "id": 1326916713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.75,-14.86667,166.75,-14.86667",
+    "geom:latitude":-14.86667,
+    "geom:longitude":166.75,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lawaawa",
+    "gn:country_code":"VU",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136566,
+    "gn:latitude":-14.86667,
+    "gn:longitude":166.75,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Lawaawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136566
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"9922d3946d6489275a138da0b683444b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326916713,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326916713,
+    "wof:lastmodified":1536927911,
+    "wof:name":"Lawaawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.75,
+    -14.86667,
+    166.75,
+    -14.86667
+],
+  "geometry": {"coordinates":[166.75,-14.86667],"type":"Point"}
+}

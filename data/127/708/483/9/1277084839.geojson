@@ -1,0 +1,61 @@
+{
+  "id": 1277084839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.43045,-17.13037,168.43045,-17.13037",
+    "geom:latitude":-17.13037,
+    "geom:longitude":168.43045,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Malakof",
+    "gn:country_code":"VU",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6621047,
+    "gn:latitude":-17.13037,
+    "gn:longitude":168.43045,
+    "gn:modification_date":"2008-01-04",
+    "gn:name":"Malakof",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6621047
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"d053d2ed7e52b008d17095b91c58e389",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277084839,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277084839,
+    "wof:lastmodified":1536764871,
+    "wof:name":"Malakof",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.43045,
+    -17.13037000000001,
+    168.43045,
+    -17.13037000000001
+],
+  "geometry": {"coordinates":[168.43045000000001,-17.13037000000001],"type":"Point"}
+}

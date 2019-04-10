@@ -1,0 +1,61 @@
+{
+  "id": 1293170487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.41667,-16.1,167.41667,-16.1",
+    "geom:latitude":-16.1,
+    "geom:longitude":167.41667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Senal",
+    "gn:country_code":"VU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134850,
+    "gn:latitude":-16.1,
+    "gn:longitude":167.41667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"S\u00e9nal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134850
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"2f3fae10271bb146acb7b82067fa9e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293170487,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293170487,
+    "wof:lastmodified":1536747011,
+    "wof:name":"Senal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.41666999999995,
+    -16.1,
+    167.41666999999995,
+    -16.1
+],
+  "geometry": {"coordinates":[167.41666999999995,-16.1],"type":"Point"}
+}

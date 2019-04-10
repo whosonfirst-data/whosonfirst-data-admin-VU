@@ -1,0 +1,64 @@
+{
+  "id": 1360148033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.53333,-16.88333,168.53333,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":168.53333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Loupalea",
+    "gn:country_code":"VU",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136199,
+    "gn:latitude":-16.88333,
+    "gn:longitude":168.53333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Loupal\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136199
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"0ecb6edc7106038e0e98377793974f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1360148033,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360148033,
+    "wof:lastmodified":1536853871,
+    "wof:name":"Loupalea",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.53333,
+    -16.88332999999999,
+    168.53333,
+    -16.88332999999999
+],
+  "geometry": {"coordinates":[168.53333000000001,-16.88332999999999],"type":"Point"}
+}

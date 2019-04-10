@@ -1,0 +1,65 @@
+{
+  "id": 1326499881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.46667,-16.15,167.46667,-16.15",
+    "geom:latitude":-16.15,
+    "geom:longitude":167.46667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Noboros",
+    "gn:country_code":"VU",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135549,
+    "gn:latitude":-16.15,
+    "gn:longitude":167.46667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Noboros",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135549
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"557e7c2bb31a09fd20748f13c90be0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1326499881,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1326499881,
+    "wof:lastmodified":1537029496,
+    "wof:name":"Noboros",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.46667,
+    -16.15,
+    167.46667,
+    -16.15
+],
+  "geometry": {"coordinates":[167.46666999999999,-16.15],"type":"Point"}
+}

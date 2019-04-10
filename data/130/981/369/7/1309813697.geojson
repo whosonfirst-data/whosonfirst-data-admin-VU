@@ -1,0 +1,65 @@
+{
+  "id": 1309813697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.98743,-15.57089,166.98743,-15.57089",
+    "geom:latitude":-15.57089,
+    "geom:longitude":166.98743,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Namalo",
+    "gn:country_code":"VU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554035,
+    "gn:latitude":-15.57089,
+    "gn:longitude":166.98743,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Namalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554035
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"35e75a8f98b6f1d9ad09c9342f98ba63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1309813697,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1309813697,
+    "wof:lastmodified":1536920216,
+    "wof:name":"Namalo",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.98743000000005,
+    -15.57089,
+    166.98743000000005,
+    -15.57089
+],
+  "geometry": {"coordinates":[166.98743000000005,-15.57089],"type":"Point"}
+}

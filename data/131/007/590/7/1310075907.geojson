@@ -1,0 +1,61 @@
+{
+  "id": 1310075907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.8,-20.13333,169.8,-20.13333",
+    "geom:latitude":-20.13333,
+    "geom:longitude":169.8,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Inap",
+    "gn:country_code":"VU",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136853,
+    "gn:latitude":-20.13333,
+    "gn:longitude":169.8,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Inap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136853
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"2919701bc1a369aa91bc908a50a33908",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310075907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310075907,
+    "wof:lastmodified":1537037673,
+    "wof:name":"Inap",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.8,
+    -20.13333,
+    169.8,
+    -20.13333
+],
+  "geometry": {"coordinates":[169.80000000000001,-20.13333],"type":"Point"}
+}

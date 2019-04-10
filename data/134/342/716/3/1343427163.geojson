@@ -1,0 +1,65 @@
+{
+  "id": 1343427163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.45,-17.8,168.45,-17.8",
+    "geom:latitude":-17.8,
+    "geom:longitude":168.45,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Rive Yan",
+    "gn:country_code":"VU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134988,
+    "gn:latitude":-17.8,
+    "gn:longitude":168.45,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Rive Yan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134988
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6743f3e489e0c29f4686b0c1f73fab9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343427163,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1343427163,
+    "wof:lastmodified":1536794667,
+    "wof:name":"Rive Yan",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.45,
+    -17.8,
+    168.45,
+    -17.8
+],
+  "geometry": {"coordinates":[168.44999999999999,-17.8],"type":"Point"}
+}

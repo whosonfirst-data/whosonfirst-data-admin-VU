@@ -1,0 +1,61 @@
+{
+  "id": 1344126585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.81667,-16.51667,167.81667,-16.51667",
+    "geom:latitude":-16.51667,
+    "geom:longitude":167.81667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Assoue",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137472,
+    "gn:latitude":-16.51667,
+    "gn:longitude":167.81667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Assou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137472
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c5968e58a4933ad9769d2c8ad9033df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344126585,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344126585,
+    "wof:lastmodified":1536780783,
+    "wof:name":"Assoue",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.81667,
+    -16.51667,
+    167.81667,
+    -16.51667
+],
+  "geometry": {"coordinates":[167.81666999999999,-16.51667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1259459085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.05,-14.95,168.05,-14.95",
+    "geom:latitude":-14.95,
+    "geom:longitude":168.05,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Veroue",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134387,
+    "gn:latitude":-14.95,
+    "gn:longitude":168.05,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"V\u00e9rou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134387
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"625bbad8c89f2f31a0f9bcae792e6b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259459085,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259459085,
+    "wof:lastmodified":1536893623,
+    "wof:name":"Veroue",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.05,
+    -14.95,
+    168.05,
+    -14.95
+],
+  "geometry": {"coordinates":[168.05000000000001,-14.95],"type":"Point"}
+}

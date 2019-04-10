@@ -1,0 +1,61 @@
+{
+  "id": 1243034373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.38333,-17.48333,168.38333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":168.38333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tikilasoa",
+    "gn:country_code":"VU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134576,
+    "gn:latitude":-17.48333,
+    "gn:longitude":168.38333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Tikilasoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134576
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"d7dc7e780ff00c7dbd6d5d008a8257fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243034373,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243034373,
+    "wof:lastmodified":1536902767,
+    "wof:name":"Tikilasoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.38333,
+    -17.48333,
+    168.38333,
+    -17.48333
+],
+  "geometry": {"coordinates":[168.38333,-17.48333],"type":"Point"}
+}

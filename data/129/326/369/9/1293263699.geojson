@@ -1,0 +1,65 @@
+{
+  "id": 1293263699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.23333,-15.95,168.23333,-15.95",
+    "geom:latitude":-15.95,
+    "geom:longitude":168.23333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lonlebi",
+    "gn:country_code":"VU",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136285,
+    "gn:latitude":-15.95,
+    "gn:longitude":168.23333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lonl\u00e9bi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136285
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"aea77a4bb6bb2748836a8e481d057564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293263699,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1293263699,
+    "wof:lastmodified":1536610089,
+    "wof:name":"Lonlebi",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.23333,
+    -15.95,
+    168.23333,
+    -15.95
+],
+  "geometry": {"coordinates":[168.23333,-15.95],"type":"Point"}
+}

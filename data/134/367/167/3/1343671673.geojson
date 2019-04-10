@@ -1,0 +1,61 @@
+{
+  "id": 1343671673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.79431,-14.98642,166.79431,-14.98642",
+    "geom:latitude":-14.98642,
+    "geom:longitude":166.79431,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Peavot",
+    "gn:country_code":"VU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554021,
+    "gn:latitude":-14.98642,
+    "gn:longitude":166.79431,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Peavot",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554021
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"3841b2ae70ab844eb50c23d717b96b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343671673,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343671673,
+    "wof:lastmodified":1536939517,
+    "wof:name":"Peavot",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.79431,
+    -14.98642,
+    166.79431,
+    -14.98642
+],
+  "geometry": {"coordinates":[166.79431,-14.98642],"type":"Point"}
+}

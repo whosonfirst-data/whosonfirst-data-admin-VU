@@ -1,0 +1,64 @@
+{
+  "id": 1343633891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.43203,-16.49889,167.43203,-16.49889",
+    "geom:latitude":-16.49889,
+    "geom:longitude":167.43203,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lamengo",
+    "gn:country_code":"VU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136649,
+    "gn:latitude":-16.49889,
+    "gn:longitude":167.43203,
+    "gn:modification_date":"2013-04-16",
+    "gn:name":"Lamengo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136649
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"b96ecb08a9bdd67a1c02a2be6e55ecff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343633891,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343633891,
+    "wof:lastmodified":1536992646,
+    "wof:name":"Lamengo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.43203,
+    -16.49889,
+    167.43203,
+    -16.49889
+],
+  "geometry": {"coordinates":[167.43203,-16.49889],"type":"Point"}
+}

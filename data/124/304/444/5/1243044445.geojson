@@ -1,0 +1,65 @@
+{
+  "id": 1243044445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.61667,-15.03333,166.61667,-15.03333",
+    "geom:latitude":-15.03333,
+    "geom:longitude":166.61667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bounahatsa",
+    "gn:country_code":"VU",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137250,
+    "gn:latitude":-15.03333,
+    "gn:longitude":166.61667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Bounahatsa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137250
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6f0c8fef12835321783de87543f1f80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1243044445,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1243044445,
+    "wof:lastmodified":1536887689,
+    "wof:name":"Bounahatsa",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.61667,
+    -15.03333,
+    166.61667,
+    -15.03333
+],
+  "geometry": {"coordinates":[166.61667,-15.03333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209681967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.28333,-17.71667,168.28333,-17.71667",
+    "geom:latitude":-17.71667,
+    "geom:longitude":168.28333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Malapat",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136112,
+    "gn:latitude":-17.71667,
+    "gn:longitude":168.28333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Malapat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136112
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"bb515f25bd8db516b245ef9ea26d047b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209681967
+        }
+    ],
+    "wof:id":1209681967,
+    "wof:lastmodified":1536279543,
+    "wof:name":"Malapat",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.28333,
+    -17.71667,
+    168.28333,
+    -17.71667
+],
+  "geometry": {"coordinates":[168.28333000000001,-17.71667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209478237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.21667,-17.61667,168.21667,-17.61667",
+    "geom:latitude":-17.61667,
+    "geom:longitude":168.21667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Natapao",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135683,
+    "gn:latitude":-17.61667,
+    "gn:longitude":168.21667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Natapao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135683
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"19d633a4c5a6c00317588614792ca11e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209478237
+        }
+    ],
+    "wof:id":1209478237,
+    "wof:lastmodified":1536285867,
+    "wof:name":"Natapao",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.21667,
+    -17.616670000000006,
+    168.21667,
+    -17.616670000000006
+],
+  "geometry": {"coordinates":[168.21666999999999,-17.61667000000001],"type":"Point"}
+}

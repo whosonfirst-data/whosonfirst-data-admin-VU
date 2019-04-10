@@ -1,0 +1,65 @@
+{
+  "id": 1226812807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.91667,-15.41667,167.91667,-15.41667",
+    "geom:latitude":-15.41667,
+    "geom:longitude":167.91667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lomateiwei",
+    "gn:country_code":"VU",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136322,
+    "gn:latitude":-15.41667,
+    "gn:longitude":167.91667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lomat\u00e9\u00efw\u00e9\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136322
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"fce4ce573c6a61347b6cb3e6815cb651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226812807,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1226812807,
+    "wof:lastmodified":1536616841,
+    "wof:name":"Lomateiwei",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.91666999999995,
+    -15.41667,
+    167.91666999999995,
+    -15.41667
+],
+  "geometry": {"coordinates":[167.91666999999995,-15.41667],"type":"Point"}
+}

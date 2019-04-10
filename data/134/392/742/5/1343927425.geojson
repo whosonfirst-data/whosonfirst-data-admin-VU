@@ -1,0 +1,65 @@
+{
+  "id": 1343927425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.99392,-16.28751,167.99392,-16.28751",
+    "geom:latitude":-16.28751,
+    "geom:longitude":167.99392,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yaotilie",
+    "gn:country_code":"VU",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553792,
+    "gn:latitude":-16.28751,
+    "gn:longitude":167.99392,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Yaotilie",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553792
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"5d4da4e69908c0152266bfe8726fea01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343927425,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1343927425,
+    "wof:lastmodified":1537064895,
+    "wof:name":"Yaotilie",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.99392,
+    -16.28751,
+    167.99392,
+    -16.28751
+],
+  "geometry": {"coordinates":[167.99392,-16.28751],"type":"Point"}
+}

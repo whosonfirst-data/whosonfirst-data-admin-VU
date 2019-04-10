@@ -1,0 +1,65 @@
+{
+  "id": 1276725147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.38333,-17.48333,168.38333,-17.48333",
+    "geom:latitude":-17.48333,
+    "geom:longitude":168.38333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ounakop",
+    "gn:country_code":"VU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135427,
+    "gn:latitude":-17.48333,
+    "gn:longitude":168.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ounakop",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taoloa",
+        "Ounakop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135427
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"d7dc7e780ff00c7dbd6d5d008a8257fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276725147,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276725147,
+    "wof:lastmodified":1537714745,
+    "wof:name":"Ounakop",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.38333,
+    -17.48333,
+    168.38333,
+    -17.48333
+],
+  "geometry": {"coordinates":[168.38333,-17.48333],"type":"Point"}
+}

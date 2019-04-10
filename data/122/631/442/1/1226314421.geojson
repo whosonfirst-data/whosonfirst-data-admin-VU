@@ -1,0 +1,61 @@
+{
+  "id": 1226314421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.7,-15.4,167.7,-15.4",
+    "geom:latitude":-15.4,
+    "geom:longitude":167.7,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Amata",
+    "gn:country_code":"VU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137581,
+    "gn:latitude":-15.4,
+    "gn:longitude":167.7,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Amata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137581
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"40b94af975c83f434d70948138edb5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226314421,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226314421,
+    "wof:lastmodified":1536833745,
+    "wof:name":"Amata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.7,
+    -15.4,
+    167.7,
+    -15.4
+],
+  "geometry": {"coordinates":[167.69999999999999,-15.4],"type":"Point"}
+}

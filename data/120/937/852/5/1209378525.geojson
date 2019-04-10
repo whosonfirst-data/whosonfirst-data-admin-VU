@@ -1,0 +1,61 @@
+{
+  "id": 1209378525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.13333,-15.51667,168.13333,-15.51667",
+    "geom:latitude":-15.51667,
+    "geom:longitude":168.13333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Arasa",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137500,
+    "gn:latitude":-15.51667,
+    "gn:longitude":168.13333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Arasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137500
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c44e4e4a864c9d19fff3b4bfdd2b766b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209378525
+        }
+    ],
+    "wof:id":1209378525,
+    "wof:lastmodified":1536288865,
+    "wof:name":"Arasa",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.13333,
+    -15.51667,
+    168.13333,
+    -15.51667
+],
+  "geometry": {"coordinates":[168.13333,-15.51667],"type":"Point"}
+}

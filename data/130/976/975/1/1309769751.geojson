@@ -1,0 +1,65 @@
+{
+  "id": 1309769751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.91667,-15.4,167.91667,-15.4",
+    "geom:latitude":-15.4,
+    "geom:longitude":167.91667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lolomangoua",
+    "gn:country_code":"VU",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136346,
+    "gn:latitude":-15.4,
+    "gn:longitude":167.91667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lolomangoua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136346
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"609f3fdcb4f3e2d0522e7c2e7819906b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1309769751,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1309769751,
+    "wof:lastmodified":1536982472,
+    "wof:name":"Lolomangoua",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.91666999999995,
+    -15.4,
+    167.91666999999995,
+    -15.4
+],
+  "geometry": {"coordinates":[167.91666999999995,-15.4],"type":"Point"}
+}

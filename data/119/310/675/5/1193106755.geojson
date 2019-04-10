@@ -1,0 +1,65 @@
+{
+  "id": 1193106755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.15,-16.1,168.15,-16.1",
+    "geom:latitude":-16.1,
+    "geom:longitude":168.15,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lonha",
+    "gn:country_code":"VU",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136286,
+    "gn:latitude":-16.1,
+    "gn:longitude":168.15,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lonha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136286
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"0b6987842174ef97db15ff4fc8dc5584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1193106755,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1193106755,
+    "wof:lastmodified":1536377661,
+    "wof:name":"Lonha",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.15,
+    -16.1,
+    168.15,
+    -16.1
+],
+  "geometry": {"coordinates":[168.15000000000001,-16.1],"type":"Point"}
+}

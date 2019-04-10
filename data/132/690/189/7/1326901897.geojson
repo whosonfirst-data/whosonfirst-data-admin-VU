@@ -1,0 +1,65 @@
+{
+  "id": 1326901897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.17426,-15.84458,168.17426,-15.84458",
+    "geom:latitude":-15.84458,
+    "geom:longitude":168.17426,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nevor",
+    "gn:country_code":"VU",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554099,
+    "gn:latitude":-15.84458,
+    "gn:longitude":168.17426,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Nevor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554099
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"56e2f5ac5f9453c59d42286b5afb37c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1326901897,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1326901897,
+    "wof:lastmodified":1536948877,
+    "wof:name":"Nevor",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.17426,
+    -15.84458,
+    168.17426,
+    -15.84458
+],
+  "geometry": {"coordinates":[168.17426,-15.84458],"type":"Point"}
+}

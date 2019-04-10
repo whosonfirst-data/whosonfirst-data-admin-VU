@@ -1,0 +1,63 @@
+{
+  "id": 1226061341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.45035,-13.95985,167.45035,-13.95985",
+    "geom:latitude":-13.95985,
+    "geom:longitude":167.45035,
+    "gn:asciiname":"Wasag",
+    "gn:country_code":"VU",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125913,
+    "gn:latitude":-13.95985,
+    "gn:longitude":167.45035,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Wasag",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125913
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"fd19059920aa364fb5216c1b3cc19e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226061341,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226061341,
+    "wof:lastmodified":1536702968,
+    "wof:name":"Wasag",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.45035,
+    -13.95985,
+    167.45035,
+    -13.95985
+],
+  "geometry": {"coordinates":[167.45034999999999,-13.95985],"type":"Point"}
+}

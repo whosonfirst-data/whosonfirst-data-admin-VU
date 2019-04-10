@@ -1,0 +1,61 @@
+{
+  "id": 1225920363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.15,-15.45,168.15,-15.45",
+    "geom:latitude":-15.45,
+    "geom:longitude":168.15,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Laratava",
+    "gn:country_code":"VU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136606,
+    "gn:latitude":-15.45,
+    "gn:longitude":168.15,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Laratava",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136606
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c9fb4a134c3f3a49ea31500d4f9b6cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225920363,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225920363,
+    "wof:lastmodified":1536906384,
+    "wof:name":"Laratava",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.15,
+    -15.45,
+    168.15,
+    -15.45
+],
+  "geometry": {"coordinates":[168.15000000000001,-15.45],"type":"Point"}
+}

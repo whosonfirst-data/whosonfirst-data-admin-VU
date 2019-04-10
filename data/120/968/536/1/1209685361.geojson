@@ -1,0 +1,61 @@
+{
+  "id": 1209685361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.21667,-16.25,168.21667,-16.25",
+    "geom:latitude":-16.25,
+    "geom:longitude":168.21667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ranbili",
+    "gn:country_code":"VU",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135086,
+    "gn:latitude":-16.25,
+    "gn:longitude":168.21667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Ranbili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135086
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6f6d9ea8b8ea285daf07bcf93a1be109",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209685361
+        }
+    ],
+    "wof:id":1209685361,
+    "wof:lastmodified":1536279430,
+    "wof:name":"Ranbili",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.21667,
+    -16.25,
+    168.21667,
+    -16.25
+],
+  "geometry": {"coordinates":[168.21666999999999,-16.25],"type":"Point"}
+}

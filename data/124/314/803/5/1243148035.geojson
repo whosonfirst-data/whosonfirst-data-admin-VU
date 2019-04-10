@@ -1,0 +1,65 @@
+{
+  "id": 1243148035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.33333,-17.73333,168.33333,-17.73333",
+    "geom:latitude":-17.73333,
+    "geom:longitude":168.33333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Les Lagunes",
+    "gn:country_code":"VU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136463,
+    "gn:latitude":-17.73333,
+    "gn:longitude":168.33333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Les Lagunes",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136463
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c887d7937bb31bc0d82ee8341476d4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1243148035,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1243148035,
+    "wof:lastmodified":1536738764,
+    "wof:name":"Les Lagunes",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.33333000000005,
+    -17.73333,
+    168.33333000000005,
+    -17.73333
+],
+  "geometry": {"coordinates":[168.33333000000005,-17.73333],"type":"Point"}
+}

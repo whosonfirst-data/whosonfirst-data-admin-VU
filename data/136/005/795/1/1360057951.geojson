@@ -1,0 +1,65 @@
+{
+  "id": 1360057951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.95,-16.25,167.95,-16.25",
+    "geom:latitude":-16.25,
+    "geom:longitude":167.95,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Loliboulo",
+    "gn:country_code":"VU",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136362,
+    "gn:latitude":-16.25,
+    "gn:longitude":167.95,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Loliboulo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136362
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"47773659efada05588c4c6892c1e209b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1360057951,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1360057951,
+    "wof:lastmodified":1536984148,
+    "wof:name":"Loliboulo",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.95,
+    -16.25,
+    167.95,
+    -16.25
+],
+  "geometry": {"coordinates":[167.94999999999999,-16.25],"type":"Point"}
+}

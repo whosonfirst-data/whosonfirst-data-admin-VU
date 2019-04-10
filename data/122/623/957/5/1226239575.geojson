@@ -1,0 +1,70 @@
+{
+  "id": 1226239575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.45,-13.9,167.45,-13.9",
+    "geom:latitude":-13.9,
+    "geom:longitude":167.45,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Veutumboso",
+    "gn:cc2":"VU",
+    "gn:country_code":"VU",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134377,
+    "gn:latitude":-13.9,
+    "gn:longitude":167.45,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Veut\u00fcmboso",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "V\u00e9toubosor",
+        "Veut\u00fcmboso",
+        "V\u00f6tuboso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134377
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"0c7ba4ad0a8921626be61399e06ab144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226239575,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226239575,
+    "wof:lastmodified":1537714741,
+    "wof:name":"Veutumboso",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.45,
+    -13.9,
+    167.45,
+    -13.9
+],
+  "geometry": {"coordinates":[167.44999999999999,-13.9],"type":"Point"}
+}

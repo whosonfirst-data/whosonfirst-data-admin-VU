@@ -1,0 +1,61 @@
+{
+  "id": 1226716165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.36667,-17.05,168.36667,-17.05",
+    "geom:latitude":-17.05,
+    "geom:longitude":168.36667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Marae",
+    "gn:country_code":"VU",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136038,
+    "gn:latitude":-17.05,
+    "gn:longitude":168.36667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Mara\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136038
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"dd7d723235b3c971e6eb1e68d34889a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226716165,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226716165,
+    "wof:lastmodified":1536758450,
+    "wof:name":"Marae",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.36667,
+    -17.05,
+    168.36667,
+    -17.05
+],
+  "geometry": {"coordinates":[168.36667,-17.05],"type":"Point"}
+}

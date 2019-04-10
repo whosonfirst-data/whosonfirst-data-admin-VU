@@ -1,0 +1,61 @@
+{
+  "id": 1209072469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.51667,-16.91667,168.51667,-16.91667",
+    "geom:latitude":-16.91667,
+    "geom:longitude":168.51667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lamboukouti",
+    "gn:country_code":"VU",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136657,
+    "gn:latitude":-16.91667,
+    "gn:longitude":168.51667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lamboukouti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136657
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"74af6b296bf1c07bf7d7707619b8e0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209072469
+        }
+    ],
+    "wof:id":1209072469,
+    "wof:lastmodified":1536298602,
+    "wof:name":"Lamboukouti",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.51667,
+    -16.91667,
+    168.51667,
+    -16.91667
+],
+  "geometry": {"coordinates":[168.51667,-16.91667],"type":"Point"}
+}

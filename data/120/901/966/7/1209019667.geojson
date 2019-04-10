@@ -1,0 +1,60 @@
+{
+  "id": 1209019667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.63434,-13.33487,166.63434,-13.33487",
+    "geom:latitude":-13.33487,
+    "geom:longitude":166.63434,
+    "gn:asciiname":"Lungharegi",
+    "gn:country_code":"VU",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125906,
+    "gn:latitude":-13.33487,
+    "gn:longitude":166.63434,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Lungharegi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125906
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"15b358638b043210ff9d1d3ab8b2f655",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209019667
+        }
+    ],
+    "wof:id":1209019667,
+    "wof:lastmodified":1536300183,
+    "wof:name":"Lungharegi",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.63433999999995,
+    -13.33487,
+    166.63433999999995,
+    -13.33487
+],
+  "geometry": {"coordinates":[166.63433999999995,-13.33487],"type":"Point"}
+}

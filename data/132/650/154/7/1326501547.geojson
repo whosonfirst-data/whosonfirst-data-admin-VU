@@ -1,0 +1,61 @@
+{
+  "id": 1326501547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.10945,-15.18373,168.10945,-15.18373",
+    "geom:latitude":-15.18373,
+    "geom:longitude":168.10945,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Narovorovo",
+    "gn:country_code":"VU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135696,
+    "gn:latitude":-15.18373,
+    "gn:longitude":168.10945,
+    "gn:modification_date":"2013-06-29",
+    "gn:name":"Narovorovo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135696
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"9c36bbc20c08d23948a7c9c73cef0104",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326501547,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326501547,
+    "wof:lastmodified":1537027160,
+    "wof:name":"Narovorovo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.10945,
+    -15.18373,
+    168.10945,
+    -15.18373
+],
+  "geometry": {"coordinates":[168.10945000000001,-15.18373],"type":"Point"}
+}

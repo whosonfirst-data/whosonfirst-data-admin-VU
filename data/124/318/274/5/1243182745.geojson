@@ -1,0 +1,64 @@
+{
+  "id": 1243182745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.26034,-17.66357,168.26034,-17.66357",
+    "geom:latitude":-17.66357,
+    "geom:longitude":168.26034,
+    "gn:asciiname":"Tamale",
+    "gn:country_code":"VU",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11185852,
+    "gn:latitude":-17.66357,
+    "gn:longitude":168.26034,
+    "gn:modification_date":"2016-06-25",
+    "gn:name":"Tamale",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11185852
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"295ce2a026a9c56e47cb7961af858a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1243182745,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1243182745,
+    "wof:lastmodified":1536688728,
+    "wof:name":"Tamale",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.26034,
+    -17.66357,
+    168.26034,
+    -17.66357
+],
+  "geometry": {"coordinates":[168.26034000000001,-17.66357],"type":"Point"}
+}

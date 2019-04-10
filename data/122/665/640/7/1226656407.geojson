@@ -1,0 +1,64 @@
+{
+  "id": 1226656407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.7067,-13.65452,167.7067,-13.65452",
+    "geom:latitude":-13.65452,
+    "geom:longitude":167.7067,
+    "gn:asciiname":"Telvet",
+    "gn:country_code":"VU",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125909,
+    "gn:latitude":-13.65452,
+    "gn:longitude":167.7067,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Telvet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125909
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"b808ebc5522be0d36ca57289a896453f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226656407,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":1226656407,
+    "wof:lastmodified":1536842927,
+    "wof:name":"Telvet",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.7067,
+    -13.65452,
+    167.7067,
+    -13.65452
+],
+  "geometry": {"coordinates":[167.70670000000001,-13.65452],"type":"Point"}
+}

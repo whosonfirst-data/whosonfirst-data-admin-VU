@@ -1,0 +1,70 @@
+{
+  "id": 1209987867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.76667,-15.6,166.76667,-15.6",
+    "geom:latitude":-15.6,
+    "geom:longitude":166.76667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tasiriki",
+    "gn:cc2":"VU",
+    "gn:country_code":"VU",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134655,
+    "gn:latitude":-15.6,
+    "gn:longitude":166.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tasiriki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tass\u00e9riki",
+        "Tasiriki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134655
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"7e5683bc71e09fbe9b2b88255f1f45ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1209987867,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1209987867,
+    "wof:lastmodified":1537714742,
+    "wof:name":"Tasiriki",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.76667,
+    -15.6,
+    166.76667,
+    -15.6
+],
+  "geometry": {"coordinates":[166.76667,-15.6],"type":"Point"}
+}

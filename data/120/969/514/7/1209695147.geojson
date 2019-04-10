@@ -1,0 +1,61 @@
+{
+  "id": 1209695147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.9,-15.46667,166.9,-15.46667",
+    "geom:latitude":-15.46667,
+    "geom:longitude":166.9,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Taoumanouni",
+    "gn:country_code":"VU",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134676,
+    "gn:latitude":-15.46667,
+    "gn:longitude":166.9,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Taoumanouni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134676
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"571dba9aca6d2a5b280dd8fbb222dae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209695147
+        }
+    ],
+    "wof:id":1209695147,
+    "wof:lastmodified":1536279101,
+    "wof:name":"Taoumanouni",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.9,
+    -15.46667,
+    166.9,
+    -15.46667
+],
+  "geometry": {"coordinates":[166.90000000000001,-15.46667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226334067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.46667,-14.36667,167.46667,-14.36667",
+    "geom:latitude":-14.36667,
+    "geom:longitude":167.46667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Makeone",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2206790,
+    "gn:latitude":-14.36667,
+    "gn:longitude":167.46667,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Mak\u00e9on\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mak\u00e9on\u00e9",
+        "Makeone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2206790
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"0f91dc5b8589c5a8864a2c466102340f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226334067,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226334067,
+    "wof:lastmodified":1537714750,
+    "wof:name":"Makeone",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.46667,
+    -14.36667,
+    167.46667,
+    -14.36667
+],
+  "geometry": {"coordinates":[167.46666999999999,-14.36667],"type":"Point"}
+}

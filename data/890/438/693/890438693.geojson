@@ -1,0 +1,111 @@
+{
+  "id": 890438693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.55,-13.88333,167.55,-13.88333",
+    "geom:latitude":-13.88333,
+    "geom:longitude":167.55,
+    "gn:country":"VU",
+    "gn:fcode":"PPL",
+    "gn:pop":1171,
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u043e\u043b\u0430"
+    ],
+    "name:bis_x_preferred":[
+        "Sola"
+    ],
+    "name:cat_x_preferred":[
+        "Sola"
+    ],
+    "name:dut_x_preferred":[
+        "Sola"
+    ],
+    "name:eng_x_preferred":[
+        "Sola"
+    ],
+    "name:fre_x_preferred":[
+        "Sola"
+    ],
+    "name:ger_x_preferred":[
+        "Sola"
+    ],
+    "name:glg_x_preferred":[
+        "Sola"
+    ],
+    "name:hrv_x_preferred":[
+        "Sola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30e9"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0421\u043e\u043b\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Sola"
+    ],
+    "name:por_x_preferred":[
+        "Sola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Sola"
+    ],
+    "name:vep_x_preferred":[
+        "Sol"
+    ],
+    "qs:name":"Sola",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":811,
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134814,
+        "gp:id":1050899,
+        "qs:id":1033854,
+        "wd:id":"Q1423143",
+        "wk:page":"Sola"
+    },
+    "wof:country":"VU",
+    "wof:created":1469052205,
+    "wof:geomhash":"657b9eca149b8df458de37538c727128",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":890438693
+        }
+    ],
+    "wof:id":890438693,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Sola",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1171,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.55,
+    -13.88333,
+    167.55,
+    -13.88333
+],
+  "geometry": {"coordinates":[167.55000000000001,-13.88333],"type":"Point"}
+}

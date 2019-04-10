@@ -1,0 +1,65 @@
+{
+  "id": 1343327917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.31667,-16.73333,168.31667,-16.73333",
+    "geom:latitude":-16.73333,
+    "geom:longitude":168.31667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Leblia",
+    "gn:country_code":"VU",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136552,
+    "gn:latitude":-16.73333,
+    "gn:longitude":168.31667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"L\u00e9blia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136552
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"a4808b7a912fb07e0a697684c22e1261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343327917,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1343327917,
+    "wof:lastmodified":1536938432,
+    "wof:name":"Leblia",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.31667,
+    -16.73333,
+    168.31667,
+    -16.73333
+],
+  "geometry": {"coordinates":[168.31666999999999,-16.73333],"type":"Point"}
+}

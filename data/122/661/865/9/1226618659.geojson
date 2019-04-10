@@ -1,0 +1,69 @@
+{
+  "id": 1226618659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.56667,-16.55,167.56667,-16.55",
+    "geom:latitude":-16.55,
+    "geom:longitude":167.56667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Malfakal",
+    "gn:country_code":"VU",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136101,
+    "gn:latitude":-16.55,
+    "gn:longitude":167.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Malfakal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malboral",
+        "Malfakal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136101
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"b30686d6ba7078ec6cfc2d62464d6a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226618659,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1226618659,
+    "wof:lastmodified":1537714746,
+    "wof:name":"Malfakal",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.56667,
+    -16.55,
+    167.56667,
+    -16.55
+],
+  "geometry": {"coordinates":[167.56666999999999,-16.55],"type":"Point"}
+}

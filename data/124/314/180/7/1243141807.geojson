@@ -1,0 +1,61 @@
+{
+  "id": 1243141807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.4,-16.05,167.4,-16.05",
+    "geom:latitude":-16.05,
+    "geom:longitude":167.4,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tivel",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134558,
+    "gn:latitude":-16.05,
+    "gn:longitude":167.4,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Tivel",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134558
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"38ecd3f3c21bb0ddac679762265752b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243141807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243141807,
+    "wof:lastmodified":1536747721,
+    "wof:name":"Tivel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.4,
+    -16.05,
+    167.4,
+    -16.05
+],
+  "geometry": {"coordinates":[167.40000000000001,-16.05],"type":"Point"}
+}

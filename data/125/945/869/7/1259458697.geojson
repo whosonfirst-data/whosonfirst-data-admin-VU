@@ -1,0 +1,65 @@
+{
+  "id": 1259458697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.55,-16.88333,168.55,-16.88333",
+    "geom:latitude":-16.88333,
+    "geom:longitude":168.55,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Pourao",
+    "gn:country_code":"VU",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135141,
+    "gn:latitude":-16.88333,
+    "gn:longitude":168.55,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Pourao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135141
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"30a3f9cfb2f7557ddd011d4b4b6196e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1259458697,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1259458697,
+    "wof:lastmodified":1536894199,
+    "wof:name":"Pourao",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.55,
+    -16.88332999999999,
+    168.55,
+    -16.88332999999999
+],
+  "geometry": {"coordinates":[168.55000000000001,-16.88332999999999],"type":"Point"}
+}

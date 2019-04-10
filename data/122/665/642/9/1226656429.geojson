@@ -1,0 +1,64 @@
+{
+  "id": 1226656429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.43466,-14.31443,167.43466,-14.31443",
+    "geom:latitude":-14.31443,
+    "geom:longitude":167.43466,
+    "gn:asciiname":"Qtevut",
+    "gn:country_code":"VU",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125918,
+    "gn:latitude":-14.31443,
+    "gn:longitude":167.43466,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Qtevut",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125918
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"35dfcd1c280968382d740d3c66403d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226656429,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":1226656429,
+    "wof:lastmodified":1536842899,
+    "wof:name":"Qtevut",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.43466,
+    -14.31443,
+    167.43466,
+    -14.31443
+],
+  "geometry": {"coordinates":[167.43466000000001,-14.31443],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1276518895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.18333,-15.93333,168.18333,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":168.18333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wali",
+    "gn:country_code":"VU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134260,
+    "gn:latitude":-15.93333,
+    "gn:longitude":168.18333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Wali",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134260
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"16bb28a216b752289e9ad9519692ab06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276518895,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276518895,
+    "wof:lastmodified":1537026290,
+    "wof:name":"Wali",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.18333,
+    -15.93333,
+    168.18333,
+    -15.93333
+],
+  "geometry": {"coordinates":[168.18333000000001,-15.93333],"type":"Point"}
+}

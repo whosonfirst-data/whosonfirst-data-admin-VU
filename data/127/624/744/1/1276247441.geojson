@@ -1,0 +1,60 @@
+{
+  "id": 1276247441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.55424,-14.36542,167.55424,-14.36542",
+    "geom:latitude":-14.36542,
+    "geom:longitude":167.55424,
+    "gn:asciiname":"Maken",
+    "gn:country_code":"VU",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125919,
+    "gn:latitude":-14.36542,
+    "gn:longitude":167.55424,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Maken",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125919
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c29d56a59ccb4c84a65244eb2f19a515",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276247441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276247441,
+    "wof:lastmodified":1536893467,
+    "wof:name":"Maken",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.55424,
+    -14.36542,
+    167.55424,
+    -14.36542
+],
+  "geometry": {"coordinates":[167.55423999999999,-14.36542],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260355559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.13333,-16.63333,168.13333,-16.63333",
+    "geom:latitude":-16.63333,
+    "geom:longitude":168.13333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yapana",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134045,
+    "gn:latitude":-16.63333,
+    "gn:longitude":168.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yapana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vapana",
+        "Yapana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134045
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"ae33529e9096777fa2845e155f3012d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1260355559,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1260355559,
+    "wof:lastmodified":1537714740,
+    "wof:name":"Yapana",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.13333,
+    -16.63332999999999,
+    168.13333,
+    -16.63332999999999
+],
+  "geometry": {"coordinates":[168.13333,-16.63332999999999],"type":"Point"}
+}

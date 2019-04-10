@@ -1,0 +1,64 @@
+{
+  "id": 1209879435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.15,-16.78333,168.15,-16.78333",
+    "geom:latitude":-16.78333,
+    "geom:longitude":168.15,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Les Allobroges",
+    "gn:country_code":"VU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136470,
+    "gn:latitude":-16.78333,
+    "gn:longitude":168.15,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Les Allobroges",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136470
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"5da225236ce3544dcdc9b1b4d3e08d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1209879435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209879435,
+    "wof:lastmodified":1536395725,
+    "wof:name":"Les Allobroges",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.15,
+    -16.78333,
+    168.15,
+    -16.78333
+],
+  "geometry": {"coordinates":[168.15000000000001,-16.78333],"type":"Point"}
+}

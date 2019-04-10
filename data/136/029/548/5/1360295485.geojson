@@ -1,0 +1,65 @@
+{
+  "id": 1360295485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.13589,-15.58879,168.13589,-15.58879",
+    "geom:latitude":-15.58879,
+    "geom:longitude":168.13589,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nambwarangiut",
+    "gn:country_code":"VU",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554115,
+    "gn:latitude":-15.58879,
+    "gn:longitude":168.13589,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Nambwarangiut",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554115
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"af97d83c5d44b00c14b5d0621a48e0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1360295485,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1360295485,
+    "wof:lastmodified":1536641149,
+    "wof:name":"Nambwarangiut",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.13589,
+    -15.58879,
+    168.13589,
+    -15.58879
+],
+  "geometry": {"coordinates":[168.13588999999999,-15.58879],"type":"Point"}
+}

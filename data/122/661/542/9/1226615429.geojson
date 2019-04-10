@@ -1,0 +1,65 @@
+{
+  "id": 1226615429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.35,-16.53333,168.35,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":168.35,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Halos",
+    "gn:country_code":"VU",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136945,
+    "gn:latitude":-16.53333,
+    "gn:longitude":168.35,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Halos",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136945
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"669df1331f9c77f0d7de9153ba6d4b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226615429,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1226615429,
+    "wof:lastmodified":1536902880,
+    "wof:name":"Halos",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.35,
+    -16.53333,
+    168.35,
+    -16.53333
+],
+  "geometry": {"coordinates":[168.34999999999999,-16.53333],"type":"Point"}
+}

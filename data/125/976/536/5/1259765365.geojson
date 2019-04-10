@@ -1,0 +1,61 @@
+{
+  "id": 1259765365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.4,-16.08333,167.4,-16.08333",
+    "geom:latitude":-16.08333,
+    "geom:longitude":167.4,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Aop",
+    "gn:country_code":"VU",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137514,
+    "gn:latitude":-16.08333,
+    "gn:longitude":167.4,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Aop",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137514
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"dd9815c0d1797f6d45c33b297ca8c501",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259765365,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259765365,
+    "wof:lastmodified":1536949566,
+    "wof:name":"Aop",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.4,
+    -16.08333,
+    167.4,
+    -16.08333
+],
+  "geometry": {"coordinates":[167.40000000000001,-16.08333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1310177711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.56667,-16.21667,167.56667,-16.21667",
+    "geom:latitude":-16.21667,
+    "geom:longitude":167.56667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ransare",
+    "gn:country_code":"VU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135065,
+    "gn:latitude":-16.21667,
+    "gn:longitude":167.56667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Ransar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135065
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"3ac5aae2110b47740fb6acbe5da45f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1310177711,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1310177711,
+    "wof:lastmodified":1536892186,
+    "wof:name":"Ransare",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.56667,
+    -16.21667,
+    167.56667,
+    -16.21667
+],
+  "geometry": {"coordinates":[167.56666999999999,-16.21667],"type":"Point"}
+}

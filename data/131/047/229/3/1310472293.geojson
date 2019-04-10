@@ -1,0 +1,65 @@
+{
+  "id": 1310472293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.29991,-19.44353,169.29991,-19.44353",
+    "geom:latitude":-19.44353,
+    "geom:longitude":169.29991,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lowkahmal",
+    "gn:country_code":"VU",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553886,
+    "gn:latitude":-19.44353,
+    "gn:longitude":169.29991,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Lowkahmal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553886
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c6a8bc2d744a9f9adaa65a0d476f2911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1310472293,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":1310472293,
+    "wof:lastmodified":1536964694,
+    "wof:name":"Lowkahmal",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.29991,
+    -19.44353,
+    169.29991,
+    -19.44353
+],
+  "geometry": {"coordinates":[169.29991000000001,-19.44353],"type":"Point"}
+}

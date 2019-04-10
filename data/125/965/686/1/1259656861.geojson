@@ -1,0 +1,65 @@
+{
+  "id": 1259656861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.10414,-18.92675,169.10414,-18.92675",
+    "geom:latitude":-18.92675,
+    "geom:longitude":169.10414,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Potlouzi",
+    "gn:country_code":"VU",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135165,
+    "gn:latitude":-18.92675,
+    "gn:longitude":169.10414,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Potlouzi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135165
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6abb4700d4fcce81dd8acebdbefe4e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1259656861,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":1259656861,
+    "wof:lastmodified":1536606138,
+    "wof:name":"Potlouzi",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.10414,
+    -18.92675,
+    169.10414,
+    -18.92675
+],
+  "geometry": {"coordinates":[169.10414,-18.92675],"type":"Point"}
+}

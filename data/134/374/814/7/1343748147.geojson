@@ -1,0 +1,65 @@
+{
+  "id": 1343748147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.75,-14.96667,166.75,-14.96667",
+    "geom:latitude":-14.96667,
+    "geom:longitude":166.75,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dalotaropou",
+    "gn:country_code":"VU",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137181,
+    "gn:latitude":-14.96667,
+    "gn:longitude":166.75,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Dalotaropou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137181
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"afa02eae6d62f5b2043690c0464f7318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343748147,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1343748147,
+    "wof:lastmodified":1536827729,
+    "wof:name":"Dalotaropou",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.75,
+    -14.96667,
+    166.75,
+    -14.96667
+],
+  "geometry": {"coordinates":[166.75,-14.96667],"type":"Point"}
+}

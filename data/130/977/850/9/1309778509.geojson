@@ -1,0 +1,70 @@
+{
+  "id": 1309778509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.35,-16.18333,167.35,-16.18333",
+    "geom:latitude":-16.18333,
+    "geom:longitude":167.35,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Larevet",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136604,
+    "gn:latitude":-16.18333,
+    "gn:longitude":167.35,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Lar\u00e9vet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laraw\u00e8t",
+        "Laravet",
+        "Lar\u00e9vet",
+        "Larav\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136604
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"1d198c1f986aca2d9558b01f3ae52df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1309778509,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309778509,
+    "wof:lastmodified":1537714748,
+    "wof:name":"Larevet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.35,
+    -16.18333,
+    167.35,
+    -16.18333
+],
+  "geometry": {"coordinates":[167.34999999999999,-16.18333],"type":"Point"}
+}

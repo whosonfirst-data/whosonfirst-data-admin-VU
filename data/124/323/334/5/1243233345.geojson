@@ -1,0 +1,61 @@
+{
+  "id": 1243233345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.16667,-15.91667,167.16667,-15.91667",
+    "geom:latitude":-15.91667,
+    "geom:longitude":167.16667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tentaressoup",
+    "gn:country_code":"VU",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134593,
+    "gn:latitude":-15.91667,
+    "gn:longitude":167.16667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Tentar\u00e9ssoup",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134593
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"78a223c462216886b327079c2c782cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243233345,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243233345,
+    "wof:lastmodified":1536613462,
+    "wof:name":"Tentaressoup",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.16666999999995,
+    -15.91667,
+    167.16666999999995,
+    -15.91667
+],
+  "geometry": {"coordinates":[167.16666999999995,-15.91667],"type":"Point"}
+}

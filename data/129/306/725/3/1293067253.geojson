@@ -1,0 +1,65 @@
+{
+  "id": 1293067253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.2,-16.6,168.2,-16.6",
+    "geom:latitude":-16.6,
+    "geom:longitude":168.2,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mapouna",
+    "gn:country_code":"VU",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136042,
+    "gn:latitude":-16.6,
+    "gn:longitude":168.2,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Mapouna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136042
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c25930d7b8d37f265d24418109b64fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293067253,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1293067253,
+    "wof:lastmodified":1536895904,
+    "wof:name":"Mapouna",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.2,
+    -16.6,
+    168.2,
+    -16.6
+],
+  "geometry": {"coordinates":[168.19999999999999,-16.6],"type":"Point"}
+}

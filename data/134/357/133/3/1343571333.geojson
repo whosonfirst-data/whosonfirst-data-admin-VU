@@ -1,0 +1,65 @@
+{
+  "id": 1343571333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.65491,-15.39312,166.65491,-15.39312",
+    "geom:latitude":-15.39312,
+    "geom:longitude":166.65491,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Linduri",
+    "gn:country_code":"VU",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554032,
+    "gn:latitude":-15.39312,
+    "gn:longitude":166.65491,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Linduri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554032
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"38a0a789bdb683e2537cae15f63f326e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343571333,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1343571333,
+    "wof:lastmodified":1537080548,
+    "wof:name":"Linduri",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.65491,
+    -15.39312,
+    166.65491,
+    -15.39312
+],
+  "geometry": {"coordinates":[166.65491,-15.39312],"type":"Point"}
+}

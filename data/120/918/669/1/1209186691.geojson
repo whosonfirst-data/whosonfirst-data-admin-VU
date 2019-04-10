@@ -1,0 +1,65 @@
+{
+  "id": 1209186691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.92324,-16.26626,167.92324,-16.26626",
+    "geom:latitude":-16.26626,
+    "geom:longitude":167.92324,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wuro",
+    "gn:country_code":"VU",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134067,
+    "gn:latitude":-16.26626,
+    "gn:longitude":167.92324,
+    "gn:modification_date":"2013-04-27",
+    "gn:name":"Wuro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouro",
+        "Wuro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134067
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"ac0960f89ebb2db4ab237d753ef5e763",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209186691
+        }
+    ],
+    "wof:id":1209186691,
+    "wof:lastmodified":1537714740,
+    "wof:name":"Wuro",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.92324,
+    -16.26626,
+    167.92324,
+    -16.26626
+],
+  "geometry": {"coordinates":[167.92323999999999,-16.26626],"type":"Point"}
+}

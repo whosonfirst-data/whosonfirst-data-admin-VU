@@ -1,0 +1,65 @@
+{
+  "id": 1326796895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.36667,-17.46667,168.36667,-17.46667",
+    "geom:latitude":-17.46667,
+    "geom:longitude":168.36667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mere",
+    "gn:country_code":"VU",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135910,
+    "gn:latitude":-17.46667,
+    "gn:longitude":168.36667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"M\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135910
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"8981ab9d4ec1ce7d54d320199e7ca3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1326796895,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1326796895,
+    "wof:lastmodified":1537096536,
+    "wof:name":"Mere",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.36667,
+    -17.46667,
+    168.36667,
+    -17.46667
+],
+  "geometry": {"coordinates":[168.36667,-17.46667],"type":"Point"}
+}

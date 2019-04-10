@@ -1,0 +1,63 @@
+{
+  "id": 1243464929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.2,-19.51667,170.2,-19.51667",
+    "geom:latitude":-19.51667,
+    "geom:longitude":170.2,
+    "gn:asciiname":"Mohoun'gha",
+    "gn:country_code":"VU",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135862,
+    "gn:latitude":-19.51667,
+    "gn:longitude":170.2,
+    "gn:modification_date":"2014-02-01",
+    "gn:name":"Mohoun\u2019gha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135862
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"e46cbe5f416e782c21415b593c53f0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1243464929,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243464929,
+    "wof:lastmodified":1536779304,
+    "wof:name":"Mohoun'gha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.2,
+    -19.51667,
+    170.2,
+    -19.51667
+],
+  "geometry": {"coordinates":[170.19999999999999,-19.51667],"type":"Point"}
+}

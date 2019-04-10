@@ -1,0 +1,70 @@
+{
+  "id": 1327415937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.81667,-16.53333,167.81667,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":167.81667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Peskarus",
+    "gn:country_code":"VU",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135256,
+    "gn:latitude":-16.53333,
+    "gn:longitude":167.81667,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Peskar\u00fcs",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loghvari",
+        "Peskarous",
+        "Peskar\u00fcs",
+        "Pescarus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135256
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"94f88b689580a20ad6e28d57a9f72956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1327415937,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327415937,
+    "wof:lastmodified":1537714744,
+    "wof:name":"Peskarus",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.81667,
+    -16.53333,
+    167.81667,
+    -16.53333
+],
+  "geometry": {"coordinates":[167.81666999999999,-16.53333],"type":"Point"}
+}

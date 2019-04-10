@@ -1,0 +1,61 @@
+{
+  "id": 1310397369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.63468,-13.70128,167.63468,-13.70128",
+    "geom:latitude":-13.70128,
+    "geom:longitude":167.63468,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Avay (Var)",
+    "gn:country_code":"VU",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134429,
+    "gn:latitude":-13.70128,
+    "gn:longitude":167.63468,
+    "gn:modification_date":"2016-01-03",
+    "gn:name":"Avay (Var)",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134429
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"7368f6d358e951432f3bbd6847cf75ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310397369,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310397369,
+    "wof:lastmodified":1537069979,
+    "wof:name":"Avay (Var)",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.63468,
+    -13.70128,
+    167.63468,
+    -13.70128
+],
+  "geometry": {"coordinates":[167.63468,-13.70128],"type":"Point"}
+}

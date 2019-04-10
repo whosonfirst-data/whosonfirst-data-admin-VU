@@ -1,0 +1,65 @@
+{
+  "id": 1276438519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.56667,-14.2,167.56667,-14.2",
+    "geom:latitude":-14.2,
+    "geom:longitude":167.56667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lembot",
+    "gn:country_code":"VU",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136417,
+    "gn:latitude":-14.2,
+    "gn:longitude":167.56667,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Lembot",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136417
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"5fa7265e26b6554ae5bd1c6d49949858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1276438519,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":1276438519,
+    "wof:lastmodified":1536636527,
+    "wof:name":"Lembot",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.56667,
+    -14.2,
+    167.56667,
+    -14.2
+],
+  "geometry": {"coordinates":[167.56666999999999,-14.2],"type":"Point"}
+}

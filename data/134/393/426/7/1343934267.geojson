@@ -1,0 +1,64 @@
+{
+  "id": 1343934267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.18333,-15.35,167.18333,-15.35",
+    "geom:latitude":-15.35,
+    "geom:longitude":167.18333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vitouara",
+    "gn:country_code":"VU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134361,
+    "gn:latitude":-15.35,
+    "gn:longitude":167.18333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vitouara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134361
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c2214b5a73b0ab7924af0d31ffb78aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343934267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343934267,
+    "wof:lastmodified":1537055465,
+    "wof:name":"Vitouara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.18333,
+    -15.35,
+    167.18333,
+    -15.35
+],
+  "geometry": {"coordinates":[167.18333000000001,-15.35],"type":"Point"}
+}

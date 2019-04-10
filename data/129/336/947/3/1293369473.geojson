@@ -1,0 +1,65 @@
+{
+  "id": 1293369473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.55,-14.76667,166.55,-14.76667",
+    "geom:latitude":-14.76667,
+    "geom:longitude":166.55,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Walpey",
+    "gn:country_code":"VU",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134253,
+    "gn:latitude":-14.76667,
+    "gn:longitude":166.55,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Walpey",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134253
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6774fcbbf833c99a6125b483a9eaaff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293369473,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1293369473,
+    "wof:lastmodified":1536957232,
+    "wof:name":"Walpey",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.55,
+    -14.76667,
+    166.55,
+    -14.76667
+],
+  "geometry": {"coordinates":[166.55000000000001,-14.76667],"type":"Point"}
+}

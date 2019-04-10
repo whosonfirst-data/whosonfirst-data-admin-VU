@@ -1,0 +1,65 @@
+{
+  "id": 1327107063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.25,-15.88333,167.25,-15.88333",
+    "geom:latitude":-15.88333,
+    "geom:longitude":167.25,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Potovrou",
+    "gn:country_code":"VU",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135158,
+    "gn:latitude":-15.88333,
+    "gn:longitude":167.25,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Potovrou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135158
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"d1ab6cebf6b943cc62b984097b0cd3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1327107063,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1327107063,
+    "wof:lastmodified":1536652728,
+    "wof:name":"Potovrou",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.25,
+    -15.88333,
+    167.25,
+    -15.88333
+],
+  "geometry": {"coordinates":[167.25,-15.88333],"type":"Point"}
+}

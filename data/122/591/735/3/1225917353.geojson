@@ -1,0 +1,65 @@
+{
+  "id": 1225917353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.01667,-18.8,169.01667,-18.8",
+    "geom:latitude":-18.8,
+    "geom:longitude":169.01667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nounapon",
+    "gn:country_code":"VU",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135503,
+    "gn:latitude":-18.8,
+    "gn:longitude":169.01667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nounapon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135503
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"eb2062d6baf3aae5732c5182ad4c31b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1225917353,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":1225917353,
+    "wof:lastmodified":1536910851,
+    "wof:name":"Nounapon",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.01667,
+    -18.8,
+    169.01667,
+    -18.8
+],
+  "geometry": {"coordinates":[169.01667,-18.8],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1242850907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.1,-15.13333,167.1,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":167.1,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hog Harbour",
+    "gn:country_code":"VU",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136919,
+    "gn:latitude":-15.13333,
+    "gn:longitude":167.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hog Harbour",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136919,
+        "wk:page":"Hog_Harbour"
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"13dd43e32eb5dd87a1b6fada88f55201",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242850907,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242850907,
+    "wof:lastmodified":1537576046,
+    "wof:name":"Hog Harbour",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.1,
+    -15.13333,
+    167.1,
+    -15.13333
+],
+  "geometry": {"coordinates":[167.09999999999999,-15.13333],"type":"Point"}
+}

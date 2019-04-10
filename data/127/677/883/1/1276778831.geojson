@@ -1,0 +1,64 @@
+{
+  "id": 1276778831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.26888,-17.76757,168.26888,-17.76757",
+    "geom:latitude":-17.76757,
+    "geom:longitude":168.26888,
+    "gn:asciiname":"Erakor",
+    "gn:country_code":"VU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10242979,
+    "gn:latitude":-17.76757,
+    "gn:longitude":168.26888,
+    "gn:modification_date":"2015-05-03",
+    "gn:name":"Erakor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10242979
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"95863d237135513a8cf9702be9ec2bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1276778831,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1276778831,
+    "wof:lastmodified":1536678874,
+    "wof:name":"Erakor",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.26888,
+    -17.76757000000001,
+    168.26888,
+    -17.76757000000001
+],
+  "geometry": {"coordinates":[168.26888,-17.76757000000001],"type":"Point"}
+}

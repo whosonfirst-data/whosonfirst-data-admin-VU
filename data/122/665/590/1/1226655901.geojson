@@ -1,0 +1,64 @@
+{
+  "id": 1226655901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.70464,-13.42916,166.70464,-13.42916",
+    "geom:latitude":-13.42916,
+    "geom:longitude":166.70464,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kwururetokwa",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553962,
+    "gn:latitude":-13.42916,
+    "gn:longitude":166.70464,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Kwururetokwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bis_x_preferred":[
+        "Kwururetokwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553962
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"4029712534aafe54465e50232952706f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226655901,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226655901,
+    "wof:lastmodified":1537714750,
+    "wof:name":"Kwururetokwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.70463999999996,
+    -13.42916,
+    166.70463999999996,
+    -13.42916
+],
+  "geometry": {"coordinates":[166.70463999999996,-13.42916],"type":"Point"}
+}

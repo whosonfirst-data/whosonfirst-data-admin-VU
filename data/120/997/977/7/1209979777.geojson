@@ -1,0 +1,64 @@
+{
+  "id": 1209979777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.51667,-16.91667,168.51667,-16.91667",
+    "geom:latitude":-16.91667,
+    "geom:longitude":168.51667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Panita",
+    "gn:country_code":"VU",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135343,
+    "gn:latitude":-16.91667,
+    "gn:longitude":168.51667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Panita",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135343
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"74af6b296bf1c07bf7d7707619b8e0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1209979777,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209979777,
+    "wof:lastmodified":1536391269,
+    "wof:name":"Panita",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.51667,
+    -16.91667,
+    168.51667,
+    -16.91667
+],
+  "geometry": {"coordinates":[168.51667,-16.91667],"type":"Point"}
+}

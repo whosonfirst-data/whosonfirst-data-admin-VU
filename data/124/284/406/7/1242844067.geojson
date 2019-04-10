@@ -1,0 +1,64 @@
+{
+  "id": 1242844067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.16667,-15.93333,167.16667,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":167.16667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Matanvat",
+    "gn:country_code":"VU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135992,
+    "gn:latitude":-15.93333,
+    "gn:longitude":167.16667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Matanvat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135992
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"7c5b196d896c689fb9075d7968c98b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1242844067,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242844067,
+    "wof:lastmodified":1536679910,
+    "wof:name":"Matanvat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.16666999999995,
+    -15.93333,
+    167.16666999999995,
+    -15.93333
+],
+  "geometry": {"coordinates":[167.16666999999995,-15.93333],"type":"Point"}
+}

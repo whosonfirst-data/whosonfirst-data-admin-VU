@@ -1,0 +1,65 @@
+{
+  "id": 1310281213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.68333,-15.45,167.68333,-15.45",
+    "geom:latitude":-15.45,
+    "geom:longitude":167.68333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Vatavoui",
+    "gn:country_code":"VU",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134422,
+    "gn:latitude":-15.45,
+    "gn:longitude":167.68333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Vatavoui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134422
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"fbfdcfe071aef2ea9751958fe7134591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1310281213,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1310281213,
+    "wof:lastmodified":1536742744,
+    "wof:name":"Vatavoui",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.68333,
+    -15.45,
+    167.68333,
+    -15.45
+],
+  "geometry": {"coordinates":[167.68333000000001,-15.45],"type":"Point"}
+}

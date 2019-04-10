@@ -1,0 +1,64 @@
+{
+  "id": 1343849801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.58423,-13.12688,166.58423,-13.12688",
+    "geom:latitude":-13.12688,
+    "geom:longitude":166.58423,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yoegevigemene",
+    "gn:country_code":"VU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136970,
+    "gn:latitude":-13.12688,
+    "gn:longitude":166.58423,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Y\u00f6gevigem\u00ebne",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136970
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"0d006511cc76a338a2f261163f9bcfff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343849801,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343849801,
+    "wof:lastmodified":1536681961,
+    "wof:name":"Yoegevigemene",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.58423,
+    -13.12688,
+    166.58423,
+    -13.12688
+],
+  "geometry": {"coordinates":[166.58422999999999,-13.12688],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1226325457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.779,-20.23196,169.779,-20.23196",
+    "geom:latitude":-20.23196,
+    "geom:longitude":169.779,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Anware",
+    "gn:country_code":"VU",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137520,
+    "gn:latitude":-20.23196,
+    "gn:longitude":169.779,
+    "gn:modification_date":"2013-06-29",
+    "gn:name":"Anwar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137520
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"da2642ac39bc83eee5fe541d5ecf56b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226325457,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226325457,
+    "wof:lastmodified":1536817917,
+    "wof:name":"Anware",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.77900000000002,
+    -20.23196,
+    169.77900000000002,
+    -20.23196
+],
+  "geometry": {"coordinates":[169.77900000000002,-20.23196],"type":"Point"}
+}

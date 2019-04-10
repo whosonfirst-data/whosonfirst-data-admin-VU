@@ -1,0 +1,65 @@
+{
+  "id": 1293847125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.45833,-17.57222,168.45833,-17.57222",
+    "geom:latitude":-17.57222,
+    "geom:longitude":168.45833,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Epule",
+    "gn:country_code":"VU",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2206472,
+    "gn:latitude":-17.57222,
+    "gn:longitude":168.45833,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Epule",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2206472
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"fc9cd5a649cba54e17e6a06df94421a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293847125,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1293847125,
+    "wof:lastmodified":1536766240,
+    "wof:name":"Epule",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.45833000000005,
+    -17.57222,
+    168.45833000000005,
+    -17.57222
+],
+  "geometry": {"coordinates":[168.45833000000005,-17.57222],"type":"Point"}
+}

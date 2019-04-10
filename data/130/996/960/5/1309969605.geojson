@@ -1,0 +1,61 @@
+{
+  "id": 1309969605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.8,-15.31667,167.8,-15.31667",
+    "geom:latitude":-15.31667,
+    "geom:longitude":167.8,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Baagwergwer",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137444,
+    "gn:latitude":-15.31667,
+    "gn:longitude":167.8,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Baagwergw\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137444
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"04e8c1ced8d9b56abefbbbe3acf51e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309969605,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309969605,
+    "wof:lastmodified":1536695362,
+    "wof:name":"Baagwergwer",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.8,
+    -15.31667,
+    167.8,
+    -15.31667
+],
+  "geometry": {"coordinates":[167.80000000000001,-15.31667],"type":"Point"}
+}

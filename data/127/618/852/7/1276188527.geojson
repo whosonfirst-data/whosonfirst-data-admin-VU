@@ -1,0 +1,61 @@
+{
+  "id": 1276188527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.11667,-15.6,168.11667,-15.6",
+    "geom:latitude":-15.6,
+    "geom:longitude":168.11667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nakouita",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135801,
+    "gn:latitude":-15.6,
+    "gn:longitude":168.11667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Nakouita",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135801
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"81c1c3f0c87c5c538ed3873fc6d8eb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276188527,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276188527,
+    "wof:lastmodified":1536972651,
+    "wof:name":"Nakouita",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.11667,
+    -15.6,
+    168.11667,
+    -15.6
+],
+  "geometry": {"coordinates":[168.11667,-15.6],"type":"Point"}
+}

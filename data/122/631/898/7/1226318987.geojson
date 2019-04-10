@@ -1,0 +1,61 @@
+{
+  "id": 1226318987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.11667,-15.63333,168.11667,-15.63333",
+    "geom:latitude":-15.63333,
+    "geom:longitude":168.11667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Iliwaba",
+    "gn:country_code":"VU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136870,
+    "gn:latitude":-15.63333,
+    "gn:longitude":168.11667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Iliwaba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136870
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"a1fb551cebd8957a6057f975cdeacd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226318987,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226318987,
+    "wof:lastmodified":1536827205,
+    "wof:name":"Iliwaba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.11667,
+    -15.63333,
+    168.11667,
+    -15.63333
+],
+  "geometry": {"coordinates":[168.11667,-15.63333],"type":"Point"}
+}

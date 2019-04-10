@@ -1,0 +1,61 @@
+{
+  "id": 1293369621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.18333,-15.28333,167.18333,-15.28333",
+    "geom:latitude":-15.28333,
+    "geom:longitude":167.18333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nelvololkar",
+    "gn:country_code":"VU",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135627,
+    "gn:latitude":-15.28333,
+    "gn:longitude":167.18333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Nelvololkar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135627
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"fe560bba7b22e1520667f2ad88a91eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293369621,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293369621,
+    "wof:lastmodified":1536957038,
+    "wof:name":"Nelvololkar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.18333,
+    -15.28333,
+    167.18333,
+    -15.28333
+],
+  "geometry": {"coordinates":[167.18333000000001,-15.28333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1260098549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.52457,-14.20884,167.52457,-14.20884",
+    "geom:latitude":-14.20884,
+    "geom:longitude":167.52457,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Masevono",
+    "gn:country_code":"VU",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553968,
+    "gn:latitude":-14.20884,
+    "gn:longitude":167.52457,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Masevono",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553968
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"2ced5e4800d278bd3b5becdbca4ffd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1260098549,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":1260098549,
+    "wof:lastmodified":1536966172,
+    "wof:name":"Masevono",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.52456999999995,
+    -14.20884,
+    167.52456999999995,
+    -14.20884
+],
+  "geometry": {"coordinates":[167.52456999999995,-14.20884],"type":"Point"}
+}

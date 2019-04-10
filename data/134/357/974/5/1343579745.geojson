@@ -1,0 +1,64 @@
+{
+  "id": 1343579745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.3635,-17.78555,168.3635,-17.78555",
+    "geom:latitude":-17.78555,
+    "geom:longitude":168.3635,
+    "gn:asciiname":"Eratap",
+    "gn:country_code":"VU",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11185863,
+    "gn:latitude":-17.78555,
+    "gn:longitude":168.3635,
+    "gn:modification_date":"2016-06-25",
+    "gn:name":"Eratap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11185863
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"e1cac17916115fe89e1e029c5095ab16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343579745,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1343579745,
+    "wof:lastmodified":1537068617,
+    "wof:name":"Eratap",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.3635,
+    -17.78555,
+    168.3635,
+    -17.78555
+],
+  "geometry": {"coordinates":[168.36349999999999,-17.78555],"type":"Point"}
+}

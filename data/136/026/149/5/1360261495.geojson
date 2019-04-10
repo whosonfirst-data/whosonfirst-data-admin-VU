@@ -1,0 +1,65 @@
+{
+  "id": 1360261495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.55,-14.85,166.55,-14.85",
+    "geom:latitude":-14.85,
+    "geom:longitude":166.55,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Menegoro",
+    "gn:country_code":"VU",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135920,
+    "gn:latitude":-14.85,
+    "gn:longitude":166.55,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"M\u00e9n\u00e9goro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135920
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"78edc5f0a5f5a7bc4da43e377eab12cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1360261495,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1360261495,
+    "wof:lastmodified":1536691367,
+    "wof:name":"Menegoro",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.55,
+    -14.85,
+    166.55,
+    -14.85
+],
+  "geometry": {"coordinates":[166.55000000000001,-14.85],"type":"Point"}
+}

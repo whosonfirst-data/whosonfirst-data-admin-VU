@@ -1,0 +1,71 @@
+{
+  "id": 1276954687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.14803,-15.54925,168.14803,-15.54925",
+    "geom:latitude":-15.54925,
+    "geom:longitude":168.14803,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Loltong",
+    "gn:country_code":"VU",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136326,
+    "gn:latitude":-15.54925,
+    "gn:longitude":168.14803,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Loltong",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Loltong"
+    ],
+    "name:fra_x_preferred":[
+        "Loltong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136326
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"15dc0d7dc576bfbdd18c5def09e8a58e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1276954687,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1276954687,
+    "wof:lastmodified":1537714747,
+    "wof:name":"Loltong",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.14803,
+    -15.54925,
+    168.14803,
+    -15.54925
+],
+  "geometry": {"coordinates":[168.14803000000001,-15.54925],"type":"Point"}
+}

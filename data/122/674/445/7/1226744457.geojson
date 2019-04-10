@@ -1,0 +1,68 @@
+{
+  "id": 1226744457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.63405,-13.33502,166.63405,-13.33502",
+    "geom:latitude":-13.33502,
+    "geom:longitude":166.63405,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lungharigi",
+    "gn:country_code":"VU",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136203,
+    "gn:latitude":-13.33502,
+    "gn:longitude":166.63405,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Lungharigi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lounaragi",
+        "Lungharigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136203
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"5ac683b0d788f0d48fc6d59d0d040cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226744457,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226744457,
+    "wof:lastmodified":1537714747,
+    "wof:name":"Lungharigi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.63405,
+    -13.33502,
+    166.63405,
+    -13.33502
+],
+  "geometry": {"coordinates":[166.63405,-13.33502],"type":"Point"}
+}

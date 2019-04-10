@@ -1,0 +1,65 @@
+{
+  "id": 1242648811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.15,-15.55,168.15,-15.55",
+    "geom:latitude":-15.55,
+    "geom:longitude":168.15,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lamorountoa",
+    "gn:country_code":"VU",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136643,
+    "gn:latitude":-15.55,
+    "gn:longitude":168.15,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lamorountoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136643
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"f175152899f6a2df3ba4e2f055d129f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1242648811,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1242648811,
+    "wof:lastmodified":1536961270,
+    "wof:name":"Lamorountoa",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.15,
+    -15.55,
+    168.15,
+    -15.55
+],
+  "geometry": {"coordinates":[168.15000000000001,-15.55],"type":"Point"}
+}

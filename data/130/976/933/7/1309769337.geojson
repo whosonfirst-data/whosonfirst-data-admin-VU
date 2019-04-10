@@ -1,0 +1,74 @@
+{
+  "id": 1309769337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.51667,-17.66667,168.51667,-17.66667",
+    "geom:latitude":-17.66667,
+    "geom:longitude":168.51667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Forari",
+    "gn:country_code":"VU",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135108,
+    "gn:latitude":-17.66667,
+    "gn:longitude":168.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Forari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Radier",
+        "Torari",
+        "Forari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135108,
+        "wk:page":"Forari"
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"10a68030cd0cf05ff7a32429a9089d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1309769337,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":1309769337,
+    "wof:lastmodified":1537714743,
+    "wof:name":"Forari",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.51667,
+    -17.66667,
+    168.51667,
+    -17.66667
+],
+  "geometry": {"coordinates":[168.51667,-17.66667],"type":"Point"}
+}

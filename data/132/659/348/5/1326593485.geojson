@@ -1,0 +1,61 @@
+{
+  "id": 1326593485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.11667,-15.66667,168.11667,-15.66667",
+    "geom:latitude":-15.66667,
+    "geom:longitude":168.11667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Keke",
+    "gn:country_code":"VU",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136783,
+    "gn:latitude":-15.66667,
+    "gn:longitude":168.11667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"K\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136783
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"8ec9af0757a118487432f36821bd4aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326593485,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326593485,
+    "wof:lastmodified":1536895660,
+    "wof:name":"Keke",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.11667,
+    -15.66667,
+    168.11667,
+    -15.66667
+],
+  "geometry": {"coordinates":[168.11667,-15.66667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1310473437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.75,-15.36667,167.75,-15.36667",
+    "geom:latitude":-15.36667,
+    "geom:longitude":167.75,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lounekoukweou",
+    "gn:country_code":"VU",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136202,
+    "gn:latitude":-15.36667,
+    "gn:longitude":167.75,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Loun\u00e9koukw\u00e9ou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136202
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"4ee836a607dfeedd4f77947713d43677",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310473437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310473437,
+    "wof:lastmodified":1536963067,
+    "wof:name":"Lounekoukweou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.75,
+    -15.36667,
+    167.75,
+    -15.36667
+],
+  "geometry": {"coordinates":[167.75,-15.36667],"type":"Point"}
+}

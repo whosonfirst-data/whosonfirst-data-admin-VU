@@ -1,0 +1,67 @@
+{
+  "id": 1225821631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.15361,-15.47262,168.15361,-15.47262",
+    "geom:latitude":-15.47262,
+    "geom:longitude":168.15361,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Abwatunbuliva",
+    "gn:country_code":"VU",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137623,
+    "gn:latitude":-15.47262,
+    "gn:longitude":168.15361,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Abwatunbuliva",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abwatunbuliva"
+    ],
+    "name:fra_x_preferred":[
+        "Abatounbouliva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137623
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"2b19d49746f6ba65ab20c872b7925f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225821631,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225821631,
+    "wof:lastmodified":1537714750,
+    "wof:name":"Abwatunbuliva",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.15361,
+    -15.47262,
+    168.15361,
+    -15.47262
+],
+  "geometry": {"coordinates":[168.15360999999999,-15.47262],"type":"Point"}
+}

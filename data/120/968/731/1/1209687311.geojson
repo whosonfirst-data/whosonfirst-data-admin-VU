@@ -1,0 +1,61 @@
+{
+  "id": 1209687311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.11667,-15.71667,168.11667,-15.71667",
+    "geom:latitude":-15.71667,
+    "geom:longitude":168.11667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wawo",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134209,
+    "gn:latitude":-15.71667,
+    "gn:longitude":168.11667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Wawo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134209
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c9c50052a1e4a86a3577309d8b9b7f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209687311
+        }
+    ],
+    "wof:id":1209687311,
+    "wof:lastmodified":1536279366,
+    "wof:name":"Wawo",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.11667,
+    -15.71667,
+    168.11667,
+    -15.71667
+],
+  "geometry": {"coordinates":[168.11667,-15.71667],"type":"Point"}
+}

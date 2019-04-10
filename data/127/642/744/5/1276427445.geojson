@@ -1,0 +1,61 @@
+{
+  "id": 1276427445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.95,-15.63333,166.95,-15.63333",
+    "geom:latitude":-15.63333,
+    "geom:longitude":166.95,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Natanopeta",
+    "gn:country_code":"VU",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135684,
+    "gn:latitude":-15.63333,
+    "gn:longitude":166.95,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Natanop\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135684
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"32f826ee75aec4edd6e9ba8834daca3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276427445,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276427445,
+    "wof:lastmodified":1536652447,
+    "wof:name":"Natanopeta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.95,
+    -15.63333,
+    166.95,
+    -15.63333
+],
+  "geometry": {"coordinates":[166.94999999999999,-15.63333],"type":"Point"}
+}

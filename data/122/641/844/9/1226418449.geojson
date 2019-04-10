@@ -1,0 +1,68 @@
+{
+  "id": 1226418449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.4,-17.53333,168.4,-17.53333",
+    "geom:latitude":-17.53333,
+    "geom:longitude":168.4,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Paonangisu",
+    "gn:country_code":"VU",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135332,
+    "gn:latitude":-17.53333,
+    "gn:longitude":168.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Paonangisu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paonanguis",
+        "Paonangisu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135332
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"52244a73495d500adfb81a26e6c94670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226418449,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226418449,
+    "wof:lastmodified":1537714744,
+    "wof:name":"Paonangisu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.4,
+    -17.53333,
+    168.4,
+    -17.53333
+],
+  "geometry": {"coordinates":[168.40000000000001,-17.53333],"type":"Point"}
+}

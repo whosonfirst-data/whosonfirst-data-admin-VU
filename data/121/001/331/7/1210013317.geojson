@@ -1,0 +1,64 @@
+{
+  "id": 1210013317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.62476,-13.70336,167.62476,-13.70336",
+    "geom:latitude":-13.70336,
+    "geom:longitude":167.62476,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Toglag",
+    "gn:country_code":"VU",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134544,
+    "gn:latitude":-13.70336,
+    "gn:longitude":167.62476,
+    "gn:modification_date":"2016-01-03",
+    "gn:name":"Toglag",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134544
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"56ae44e09c3669fbe67a73a07eb1ee6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1210013317,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210013317,
+    "wof:lastmodified":1536396213,
+    "wof:name":"Toglag",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.62476,
+    -13.70336,
+    167.62476,
+    -13.70336
+],
+  "geometry": {"coordinates":[167.62476000000001,-13.70336],"type":"Point"}
+}

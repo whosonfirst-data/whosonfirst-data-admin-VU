@@ -1,0 +1,61 @@
+{
+  "id": 1310102363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.6,-14.28333,167.6,-14.28333",
+    "geom:latitude":-14.28333,
+    "geom:longitude":167.6,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mondoro",
+    "gn:country_code":"VU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2135855,
+    "gn:latitude":-14.28333,
+    "gn:longitude":167.6,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mondoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135855
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"7c58b7b3526b1b6d3dbfe796cb4d9ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310102363,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310102363,
+    "wof:lastmodified":1537000303,
+    "wof:name":"Mondoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.6,
+    -14.28333,
+    167.6,
+    -14.28333
+],
+  "geometry": {"coordinates":[167.59999999999999,-14.28333],"type":"Point"}
+}

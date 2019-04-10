@@ -1,0 +1,67 @@
+{
+  "id": 1209636673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.65738,-13.66553,167.65738,-13.66553",
+    "geom:latitude":-13.66553,
+    "geom:longitude":167.65738,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lahambek",
+    "gn:country_code":"VU",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136730,
+    "gn:latitude":-13.66553,
+    "gn:longitude":167.65738,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Lahambek",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bis_x_preferred":[
+        "Lahambek"
+    ],
+    "name:und_x_variant":[
+        "Laanbek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136730
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6e807a794c7d8f3dc896b9663021c9aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209636673
+        }
+    ],
+    "wof:id":1209636673,
+    "wof:lastmodified":1537714748,
+    "wof:name":"Lahambek",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.65738000000005,
+    -13.66553,
+    167.65738000000005,
+    -13.66553
+],
+  "geometry": {"coordinates":[167.65738000000005,-13.66553],"type":"Point"}
+}

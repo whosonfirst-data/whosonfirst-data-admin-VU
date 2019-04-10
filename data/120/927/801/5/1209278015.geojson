@@ -1,0 +1,65 @@
+{
+  "id": 1209278015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.26667,-15.93333,168.26667,-15.93333",
+    "geom:latitude":-15.93333,
+    "geom:longitude":168.26667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Panap",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135361,
+    "gn:latitude":-15.93333,
+    "gn:longitude":168.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Panap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Michel",
+        "Panap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135361
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"e0af66b5fc0a9982280171a0c8355f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209278015
+        }
+    ],
+    "wof:id":1209278015,
+    "wof:lastmodified":1537714744,
+    "wof:name":"Panap",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.26667,
+    -15.93333,
+    168.26667,
+    -15.93333
+],
+  "geometry": {"coordinates":[168.26667,-15.93333],"type":"Point"}
+}

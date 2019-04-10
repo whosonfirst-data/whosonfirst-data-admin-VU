@@ -1,0 +1,61 @@
+{
+  "id": 1343244251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.65,-16.51667,167.65,-16.51667",
+    "geom:latitude":-16.51667,
+    "geom:longitude":167.65,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Akam",
+    "gn:country_code":"VU",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137602,
+    "gn:latitude":-16.51667,
+    "gn:longitude":167.65,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Akam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137602
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"5edf5d9dd2e6a45cd536d581040d233c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343244251,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343244251,
+    "wof:lastmodified":1537055954,
+    "wof:name":"Akam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.65,
+    -16.51667,
+    167.65,
+    -16.51667
+],
+  "geometry": {"coordinates":[167.65000000000001,-16.51667],"type":"Point"}
+}

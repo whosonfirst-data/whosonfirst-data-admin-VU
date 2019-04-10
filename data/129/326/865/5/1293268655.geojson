@@ -1,0 +1,70 @@
+{
+  "id": 1293268655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.01667,-14.95,167.01667,-14.95",
+    "geom:latitude":-14.95,
+    "geom:longitude":167.01667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Eren",
+    "gn:cc2":"VU",
+    "gn:country_code":"VU",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137078,
+    "gn:latitude":-14.95,
+    "gn:longitude":167.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Eren",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lebutt",
+        "Eren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137078
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"4a22418a1f7beee18386af240afd2fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293268655,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1293268655,
+    "wof:lastmodified":1537714749,
+    "wof:name":"Eren",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.01667,
+    -14.95,
+    167.01667,
+    -14.95
+],
+  "geometry": {"coordinates":[167.01667,-14.95],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242967721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.5481,-13.13047,166.5481,-13.13047",
+    "geom:latitude":-13.13047,
+    "geom:longitude":166.5481,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yawe",
+    "gn:cc2":"VU",
+    "gn:country_code":"VU",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2134671,
+    "gn:latitude":-13.13047,
+    "gn:longitude":166.5481,
+    "gn:modification_date":"2013-04-21",
+    "gn:name":"Yawe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Iaouwa",
+        "Taouwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134671
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"355531fe6b0a07c7f59a8ebac8479db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1242967721,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":1242967721,
+    "wof:lastmodified":1537714742,
+    "wof:name":"Yawe",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.5481,
+    -13.13047,
+    166.5481,
+    -13.13047
+],
+  "geometry": {"coordinates":[166.54810000000001,-13.13047],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209078653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.25,-16.36667,168.25,-16.36667",
+    "geom:latitude":-16.36667,
+    "geom:longitude":168.25,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sae",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134943,
+    "gn:latitude":-16.36667,
+    "gn:longitude":168.25,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Sa\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u00e9",
+        "Sa\u00e9-B\u00e9thel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134943
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"b23c256eae380ee4f8de8dba15507a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209078653
+        }
+    ],
+    "wof:id":1209078653,
+    "wof:lastmodified":1537714743,
+    "wof:name":"Sae",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.25,
+    -16.36667000000001,
+    168.25,
+    -16.36667000000001
+],
+  "geometry": {"coordinates":[168.25,-16.36667000000001],"type":"Point"}
+}

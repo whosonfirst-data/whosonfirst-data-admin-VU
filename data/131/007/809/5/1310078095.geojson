@@ -1,0 +1,65 @@
+{
+  "id": 1310078095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.15,-16.05,167.15,-16.05",
+    "geom:latitude":-16.05,
+    "geom:longitude":167.15,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Rambak",
+    "gn:country_code":"VU",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135098,
+    "gn:latitude":-16.05,
+    "gn:longitude":167.15,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Rambak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135098
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"8d28751c5809db3d99db9f15423a58a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1310078095,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1310078095,
+    "wof:lastmodified":1537034631,
+    "wof:name":"Rambak",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.15,
+    -16.05,
+    167.15,
+    -16.05
+],
+  "geometry": {"coordinates":[167.15000000000001,-16.05],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1293087373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.05,-15.01667,167.05,-15.01667",
+    "geom:latitude":-15.01667,
+    "geom:longitude":167.05,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Iakobone",
+    "gn:country_code":"VU",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136898,
+    "gn:latitude":-15.01667,
+    "gn:longitude":167.05,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Iakobone",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136898
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"1f5f4e11c25c0ae74529d2bf59c0ed96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293087373,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293087373,
+    "wof:lastmodified":1536865633,
+    "wof:name":"Iakobone",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.05,
+    -15.01667,
+    167.05,
+    -15.01667
+],
+  "geometry": {"coordinates":[167.05000000000001,-15.01667],"type":"Point"}
+}

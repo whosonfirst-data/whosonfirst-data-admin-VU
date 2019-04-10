@@ -1,0 +1,65 @@
+{
+  "id": 1343647955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.81667,-15.43333,166.81667,-15.43333",
+    "geom:latitude":-15.43333,
+    "geom:longitude":166.81667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Namalao",
+    "gn:country_code":"VU",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135792,
+    "gn:latitude":-15.43333,
+    "gn:longitude":166.81667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Namalao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135792
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"8e0a6b27afdf8bb9cef5be6fd804f1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343647955,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1343647955,
+    "wof:lastmodified":1536972689,
+    "wof:name":"Namalao",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.81667,
+    -15.43333,
+    166.81667,
+    -15.43333
+],
+  "geometry": {"coordinates":[166.81666999999999,-15.43333],"type":"Point"}
+}

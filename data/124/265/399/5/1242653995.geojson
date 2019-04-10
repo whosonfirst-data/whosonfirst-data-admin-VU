@@ -1,0 +1,65 @@
+{
+  "id": 1242653995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.81667,-15.63333,166.81667,-15.63333",
+    "geom:latitude":-15.63333,
+    "geom:longitude":166.81667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Valae",
+    "gn:country_code":"VU",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134442,
+    "gn:latitude":-15.63333,
+    "gn:longitude":166.81667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Vala\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134442
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"c3d02c90fc4725689950040c8f257e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1242653995,
+            "region_id":85680875
+        }
+    ],
+    "wof:id":1242653995,
+    "wof:lastmodified":1536953934,
+    "wof:name":"Valae",
+    "wof:parent_id":85680875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.81667,
+    -15.63333,
+    166.81667,
+    -15.63333
+],
+  "geometry": {"coordinates":[166.81666999999999,-15.63333],"type":"Point"}
+}

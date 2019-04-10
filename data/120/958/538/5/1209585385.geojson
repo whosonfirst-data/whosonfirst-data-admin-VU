@@ -1,0 +1,61 @@
+{
+  "id": 1209585385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.66667,-16.3,167.66667,-16.3",
+    "geom:latitude":-16.3,
+    "geom:longitude":167.66667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Repanbitipbonour",
+    "gn:country_code":"VU",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135028,
+    "gn:latitude":-16.3,
+    "gn:longitude":167.66667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"R\u00e9panbitipbonour",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135028
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"a1d7fcce156c3271eb58f33ff543d64d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209585385
+        }
+    ],
+    "wof:id":1209585385,
+    "wof:lastmodified":1536282653,
+    "wof:name":"Repanbitipbonour",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.66666999999995,
+    -16.3,
+    167.66666999999995,
+    -16.3
+],
+  "geometry": {"coordinates":[167.66666999999995,-16.3],"type":"Point"}
+}

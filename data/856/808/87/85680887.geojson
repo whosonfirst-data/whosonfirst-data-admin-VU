@@ -1,0 +1,314 @@
+{
+  "id": 85680887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.102266,
+    "geom:area_square_m":1218634530.017439,
+    "geom:bbox":"167.672862175,-15.992445571,168.270355665,-14.9157854148",
+    "geom:latitude":-15.483539,
+    "geom:longitude":168.050771,
+    "gn:population":29286,
+    "iso:country":"VU",
+    "label:eng_x_preferred_longname":[
+        "Penama Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":-15.752273,
+    "lbl:longitude":168.186367,
+    "mps:latitude":-15.752273,
+    "mps:longitude":168.186367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0646\u0627\u0645\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041f\u0435\u043d\u0430\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09a8\u09be\u09ae\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bis_x_preferred":[
+        "Penama"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u043d\u0430\u043c\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u5f6d\u7eb3\u9a6c\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Penama Province"
+    ],
+    "name:dut_x_preferred":[
+        "Penama"
+    ],
+    "name:eng_x_preferred":[
+        "Penama"
+    ],
+    "name:epo_x_preferred":[
+        "Penama"
+    ],
+    "name:fin_x_preferred":[
+        "Penama"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00e9nama"
+    ],
+    "name:fre_x_preferred":[
+        "P\u00e9nama"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d4\u10dc\u10d0\u10db\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Penama"
+    ],
+    "name:glg_x_preferred":[
+        "Penama"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03bd\u03ac\u03bc\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac7\u0aa8\u0abe\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0928\u093e\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hrv_x_preferred":[
+        "Penama"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Penama"
+    ],
+    "name:ita_x_preferred":[
+        "Penama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ca\u30de\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc6\u0ca8\u0cbe\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kin_x_preferred":[
+        "Intara ya Penama"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub098\ub9c8 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Penamas province"
+    ],
+    "name:lit_x_preferred":[
+        "Penama"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0435\u043d\u0430\u043c\u0430"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0947\u0928\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Wilayah Penama"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041f\u0435\u043d\u0430\u043c\u0430"
+    ],
+    "name:nob_x_preferred":[
+        "Penama"
+    ],
+    "name:pol_x_preferred":[
+        "Penama"
+    ],
+    "name:por_x_preferred":[
+        "Penama"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043d\u0430\u043c\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd0\u0db1\u0db8\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Penama"
+    ],
+    "name:swe_x_preferred":[
+        "Penama"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba9\u0bae\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c46\u0c28\u0c3e\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1b\u0e35\u0e19\u0e31\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Penama Province"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041f\u0435\u043d\u0430\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Penama Province"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u0627\u0645\u0627 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Penama"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"VUT",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"VUT-564",
+    "ne:adm1_code":"VUT-564",
+    "ne:admin":"Vanuatu",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"VU.PM",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"564",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"NH17",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Vanuatu",
+    "ne:gn_a1_code":"VU.17",
+    "ne:gn_id":"2208266",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Penama Province",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"NH17",
+    "ne:gns_id":"394178",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Penama Province",
+    "ne:gns_region":"",
+    "ne:gu_a3":"VUT",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"VU-",
+    "ne:iso_a2":"VU",
+    "ne:labelrank":"9",
+    "ne:latitude":"-15.75750000000",
+    "ne:longitude":"168.19500000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":7,
+    "ne:name":"Penama",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PM",
+    "ne:provnum_ne":"4",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"VUT",
+    "ne:sub_code":"",
+    "ne:type":"Province",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20069885,
+    "ne:woe_label":"Penama, VU, Vanuatu",
+    "ne:woe_name":"Penama",
+    "qs:a0":"Vanuatu",
+    "qs:a0_lc":"VU",
+    "qs:a1":"Penama",
+    "qs:a1_lc":"VUT-564",
+    "qs:adm0":"Vanuatu",
+    "qs:adm0_a3":"VUT",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2009-11-16",
+    "statoids:area_km":"1,198",
+    "statoids:area_mi":"463",
+    "statoids:as_of_date":"2009-11-16",
+    "statoids:capital":"Longana",
+    "statoids:country":"VU",
+    "statoids:gec":"NH17",
+    "statoids:hasc":"VU.PM",
+    "statoids:iso":"PAM",
+    "statoids:name":"P\u00e9nama",
+    "statoids:population":"30819",
+    "statoids:timezone":"+11",
+    "statoids:type":"province",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"NH17",
+        "gn:id":2208266,
+        "gp:id":20069885,
+        "hasc:id":"VU.PM",
+        "iso:id":"VU-PAM",
+        "qs:id":1184930,
+        "wd:id":"Q836649",
+        "wk:page":"Penama Province"
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"9117215de092d3869d6cce0174ab7e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":85680887,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "bis",
+        "eng",
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "bis",
+        "eng",
+        "fra"
+    ],
+    "wof:lastmodified":1553550622,
+    "wof:name":"Penama",
+    "wof:parent_id":85632263,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":30819,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:shortcode":"PM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.6728621752493,
+    -15.99244557100627,
+    168.2703556654816,
+    -14.91578541476503
+],
+  "geometry": {"coordinates":[[[[168.2268172540131,-15.99089934682735],[168.2042749357397,-15.99244557100627],[168.1923934247169,-15.98552825292649],[168.18751061322428,-15.971123955606],[168.18384850370558,-15.93084075269854],[168.1660262385202,-15.87037525761201],[168.15503990996399,-15.79363372151897],[168.13111412951355,-15.73756275731535],[168.12224368629711,-15.7020809880471],[168.11963951944836,-15.66277434635896],[168.12452233184024,-15.62135182112962],[168.14893639379966,-15.5432268210609],[168.15455162935427,-15.46331145605882],[168.17652428466806,-15.46160247167666],[168.18287194068762,-15.5079891907485],[168.18580162884211,-15.51783619608352],[168.1925561858194,-15.52695077915507],[168.19890384183884,-15.52955494600388],[168.2037866551301,-15.53443775749645],[168.20573978026675,-15.5495744770804],[168.19792727972026,-15.61093515373432],[168.19947350389918,-15.62769947714912],[168.21314537895614,-15.65935637759469],[168.21314537895614,-15.68987395571844],[168.21607506621137,-15.70378997152994],[168.2395125660521,-15.76816171688967],[168.24732506569933,-15.81951262800533],[168.25212649843922,-15.83424244573223],[168.26400800946215,-15.85711028351272],[168.26783287918408,-15.87476978939424],[168.27035566548159,-15.9142391903863],[168.26775149773346,-15.94915129939289],[168.25489342549122,-15.97576262814272],[168.2268172540131,-15.99089934682735]]],[[[167.86158287954629,-15.47673919036129],[167.83855227976392,-15.48479583076295],[167.73414147225117,-15.48430755015329],[167.71290123830158,-15.47763437282799],[167.67872154975976,-15.46103280961643],[167.67286217524929,-15.44980234210436],[167.68238366017783,-15.4325497380799],[167.80445397177346,-15.32000090871492],[167.82618248813139,-15.31308359153445],[167.84310957085006,-15.31031666448246],[167.8916121752618,-15.29192473813612],[167.97689863416474,-15.27776458067081],[168.00245201934524,-15.28183359204661],[168.0032658212607,-15.29159921683032],[167.98031660202957,-15.31308359153445],[167.96729576868483,-15.32830169077039],[167.95394941493362,-15.3488095024565],[167.94361412898888,-15.37118905962734],[167.9394637379612,-15.39185963241607],[167.9362085302995,-15.41025155966173],[167.92790774824402,-15.42359791431227],[167.86158287954629,-15.47673919036129]]],[[[168.18490644637552,-15.36549244532006],[168.17896569131369,-15.39511484187642],[168.1660262385202,-15.39031340913647],[168.1552840498191,-15.39031340913647],[168.13111412951355,-15.39511484187642],[168.13689212347276,-15.37184010133956],[168.1354272798452,-15.34685637731991],[168.12378991047603,-15.29941171647749],[168.13054446745332,-15.26474374732601],[168.13013756649559,-15.15764739331252],[168.12061608246631,-15.13494231573526],[168.09644616036212,-14.98040129997997],[168.09815514384491,-14.97258879943348],[168.10084069124503,-14.96754322683842],[168.1004337902873,-14.96209075238625],[168.09327233235229,-14.953057549866],[168.09050540530029,-14.94353606583672],[168.09408613426774,-14.93141041495863],[168.10173587281236,-14.92083098736015],[168.11068769568067,-14.91578541476503],[168.12289472711007,-14.92278411249674],[168.13363691491179,-14.94036223782695],[168.14136803490692,-14.96013762814897],[168.14421634251028,-14.9735653624515],[168.14584394634107,-14.9966773418858],[168.15796959721922,-15.05242278388431],[168.15837649817695,-15.06267669107638],[168.15699303510053,-15.08367278337221],[168.15796959721922,-15.09392669056427],[168.16976972679151,-15.12656015402786],[168.17164147227618,-15.13795338264242],[168.17164147227618,-15.17278411289647],[168.1748153002859,-15.18141041445904],[168.18881269574933,-15.19752369616162],[168.19206790520968,-15.20631275792738],[168.18897545685195,-15.27459075266108],[168.19434654985344,-15.28915780928543],[168.1925561858194,-15.30803801893938],[168.18580162884211,-15.33635833117199],[168.18490644637552,-15.36549244532006]]]],"type":"MultiPolygon"}
+}

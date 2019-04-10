@@ -1,0 +1,61 @@
+{
+  "id": 1243039333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.68333,-15.41667,167.68333,-15.41667",
+    "geom:latitude":-15.41667,
+    "geom:longitude":167.68333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Vilakalaka",
+    "gn:country_code":"VU",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134370,
+    "gn:latitude":-15.41667,
+    "gn:longitude":167.68333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Vilakalaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134370
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"daf2ddc4e0a008e4f21181413f3acd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243039333,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243039333,
+    "wof:lastmodified":1536895304,
+    "wof:name":"Vilakalaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.68333,
+    -15.41667,
+    167.68333,
+    -15.41667
+],
+  "geometry": {"coordinates":[167.68333000000001,-15.41667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226263917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.68905,-13.39649,166.68905,-13.39649",
+    "geom:latitude":-13.39649,
+    "geom:longitude":166.68905,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Valikwal",
+    "gn:country_code":"VU",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136530,
+    "gn:latitude":-13.39649,
+    "gn:longitude":166.68905,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Valikwal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bis_x_preferred":[
+        "Valikwal"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9koual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136530
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"70063dc35ea352e0d656cc80cfa3d8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1226263917,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226263917,
+    "wof:lastmodified":1537714747,
+    "wof:name":"Valikwal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.68905,
+    -13.39649,
+    166.68905,
+    -13.39649
+],
+  "geometry": {"coordinates":[166.68905000000001,-13.39649],"type":"Point"}
+}

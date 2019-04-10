@@ -1,0 +1,61 @@
+{
+  "id": 1209898309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.05,-16.35,168.05,-16.35",
+    "geom:latitude":-16.35,
+    "geom:longitude":168.05,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lalinda",
+    "gn:country_code":"VU",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136678,
+    "gn:latitude":-16.35,
+    "gn:longitude":168.05,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lalinda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136678
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"60d80ea69cfc005331749a075f49a0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209898309,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209898309,
+    "wof:lastmodified":1536387595,
+    "wof:name":"Lalinda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.05,
+    -16.35,
+    168.05,
+    -16.35
+],
+  "geometry": {"coordinates":[168.05000000000001,-16.35],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1309982329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.15,-15.51667,168.15,-15.51667",
+    "geom:latitude":-15.51667,
+    "geom:longitude":168.15,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Alememer",
+    "gn:country_code":"VU",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137594,
+    "gn:latitude":-15.51667,
+    "gn:longitude":168.15,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Al\u00e9m\u00e9mer",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137594
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"52c7b68abba837c3fddb1565bda94171",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309982329,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309982329,
+    "wof:lastmodified":1536676775,
+    "wof:name":"Alememer",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.15,
+    -15.51667,
+    168.15,
+    -15.51667
+],
+  "geometry": {"coordinates":[168.15000000000001,-15.51667],"type":"Point"}
+}

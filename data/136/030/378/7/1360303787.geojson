@@ -1,0 +1,64 @@
+{
+  "id": 1360303787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.62109,-13.7044,167.62109,-13.7044",
+    "geom:latitude":-13.7044,
+    "geom:longitude":167.62109,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Qeremagde",
+    "gn:country_code":"VU",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8553965,
+    "gn:latitude":-13.7044,
+    "gn:longitude":167.62109,
+    "gn:modification_date":"2016-01-03",
+    "gn:name":"Qeremagde",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8553965
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"4f949d2aad4c828674b0413875835111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1360303787,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360303787,
+    "wof:lastmodified":1536628397,
+    "wof:name":"Qeremagde",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.62108999999995,
+    -13.7044,
+    167.62108999999995,
+    -13.7044
+],
+  "geometry": {"coordinates":[167.62108999999995,-13.7044],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293183075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.36667,-16.05,167.36667,-16.05",
+    "geom:latitude":-16.05,
+    "geom:longitude":167.36667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Plamae",
+    "gn:country_code":"VU",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135209,
+    "gn:latitude":-16.05,
+    "gn:longitude":167.36667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Plama\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135209
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"f0ef28c85f79dc7e4257856466eb9cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293183075,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1293183075,
+    "wof:lastmodified":1536729397,
+    "wof:name":"Plamae",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.36667,
+    -16.05,
+    167.36667,
+    -16.05
+],
+  "geometry": {"coordinates":[167.36667,-16.05],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1343333101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.1,-15.1,168.1,-15.1",
+    "geom:latitude":-15.1,
+    "geom:longitude":168.1,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saritamata",
+    "gn:country_code":"VU",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134874,
+    "gn:latitude":-15.1,
+    "gn:longitude":168.1,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Saritamata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134874
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"9e6aa12539c0fb3a02fcd075b20fd169",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343333101,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343333101,
+    "wof:lastmodified":1536930936,
+    "wof:name":"Saritamata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.1,
+    -15.1,
+    168.1,
+    -15.1
+],
+  "geometry": {"coordinates":[168.09999999999999,-15.1],"type":"Point"}
+}

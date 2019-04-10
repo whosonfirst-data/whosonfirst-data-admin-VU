@@ -1,0 +1,65 @@
+{
+  "id": 1292983093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.16667,-16.11667,168.16667,-16.11667",
+    "geom:latitude":-16.11667,
+    "geom:longitude":168.16667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Falibeur",
+    "gn:country_code":"VU",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137045,
+    "gn:latitude":-16.11667,
+    "gn:longitude":168.16667,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Falibeur",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137045
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"bb16da07a4e601f1e2c6c23efc44bbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1292983093,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1292983093,
+    "wof:lastmodified":1537016449,
+    "wof:name":"Falibeur",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.16666999999995,
+    -16.11667000000001,
+    168.16666999999995,
+    -16.11667000000001
+],
+  "geometry": {"coordinates":[168.16666999999995,-16.11667000000001],"type":"Point"}
+}

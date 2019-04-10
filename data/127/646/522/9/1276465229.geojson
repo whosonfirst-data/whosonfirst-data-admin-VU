@@ -1,0 +1,72 @@
+{
+  "id": 1276465229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.34076,-13.54371,167.34076,-13.54371",
+    "geom:latitude":-13.54371,
+    "geom:longitude":167.34076,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lesereplag",
+    "gn:country_code":"VU",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136465,
+    "gn:latitude":-13.54371,
+    "gn:longitude":167.34076,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Lesereplag",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bis_x_preferred":[
+        "Lesereplag"
+    ],
+    "name:und_x_variant":[
+        "L\u00e9ar",
+        "L\u00e9s\u00e9r\u00e9plag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136465
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"8ec82d4a43f8ccf0ed35a3a5c2ce7f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1276465229,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":1276465229,
+    "wof:lastmodified":1537714747,
+    "wof:name":"Lesereplag",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.34076000000005,
+    -13.54371,
+    167.34076000000005,
+    -13.54371
+],
+  "geometry": {"coordinates":[167.34076000000005,-13.54371],"type":"Point"}
+}

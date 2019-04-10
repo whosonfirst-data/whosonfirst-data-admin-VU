@@ -1,0 +1,65 @@
+{
+  "id": 1326700459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.3,-19.45,169.3,-19.45",
+    "geom:latitude":-19.45,
+    "geom:longitude":169.3,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lelowalo",
+    "gn:country_code":"VU",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136517,
+    "gn:latitude":-19.45,
+    "gn:longitude":169.3,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"L\u00e9lowalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136517
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"66ba874e2300eff1a2d6bc9d0d887d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1326700459,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":1326700459,
+    "wof:lastmodified":1536741434,
+    "wof:name":"Lelowalo",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.3,
+    -19.45,
+    169.3,
+    -19.45
+],
+  "geometry": {"coordinates":[169.30000000000001,-19.45],"type":"Point"}
+}

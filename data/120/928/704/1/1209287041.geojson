@@ -1,0 +1,61 @@
+{
+  "id": 1209287041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.15,-16.13333,168.15,-16.13333",
+    "geom:latitude":-16.13333,
+    "geom:longitude":168.15,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lolibwe",
+    "gn:country_code":"VU",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136359,
+    "gn:latitude":-16.13333,
+    "gn:longitude":168.15,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Lolibw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136359
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"1aa36f8614b2ddc0efba303eedddb64c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209287041
+        }
+    ],
+    "wof:id":1209287041,
+    "wof:lastmodified":1536291824,
+    "wof:name":"Lolibwe",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.15,
+    -16.133329999999994,
+    168.15,
+    -16.133329999999994
+],
+  "geometry": {"coordinates":[168.15000000000001,-16.13332999999999],"type":"Point"}
+}

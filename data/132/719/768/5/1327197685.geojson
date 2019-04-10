@@ -1,0 +1,65 @@
+{
+  "id": 1327197685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.13333,-15.13333,168.13333,-15.13333",
+    "geom:latitude":-15.13333,
+    "geom:longitude":168.13333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Olbanga",
+    "gn:country_code":"VU",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2135484,
+    "gn:latitude":-15.13333,
+    "gn:longitude":168.13333,
+    "gn:modification_date":"2009-04-13",
+    "gn:name":"Olbanga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2135484
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"a12459ba7ac8a9ce2418d7ccfc369e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1327197685,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1327197685,
+    "wof:lastmodified":1537019014,
+    "wof:name":"Olbanga",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.13333,
+    -15.13333,
+    168.13333,
+    -15.13333
+],
+  "geometry": {"coordinates":[168.13333,-15.13333],"type":"Point"}
+}

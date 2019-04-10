@@ -1,0 +1,66 @@
+{
+  "id": 1276954739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.06667,-14.91667,168.06667,-14.91667",
+    "geom:latitude":-14.91667,
+    "geom:longitude":168.06667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tasmaori",
+    "gn:country_code":"VU",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2134651,
+    "gn:latitude":-14.91667,
+    "gn:longitude":168.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tasmaori",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Jasmori",
+        "Yasmori",
+        "Tasmaori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134651
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"94f73359a2a9d8ac1d3b354d9ce9766e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276954739,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276954739,
+    "wof:lastmodified":1537714742,
+    "wof:name":"Tasmaori",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.06667,
+    -14.91667,
+    168.06667,
+    -14.91667
+],
+  "geometry": {"coordinates":[168.06666999999999,-14.91667],"type":"Point"}
+}

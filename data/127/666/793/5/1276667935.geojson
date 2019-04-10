@@ -1,0 +1,65 @@
+{
+  "id": 1276667935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.13589,-15.61821,168.13589,-15.61821",
+    "geom:latitude":-15.61821,
+    "geom:longitude":168.13589,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Melerep",
+    "gn:country_code":"VU",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554110,
+    "gn:latitude":-15.61821,
+    "gn:longitude":168.13589,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Melerep",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554110
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"e9a85cbe0ad7cb404da831047af6b658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1276667935,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":1276667935,
+    "wof:lastmodified":1536826410,
+    "wof:name":"Melerep",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.13589,
+    -15.61821,
+    168.13589,
+    -15.61821
+],
+  "geometry": {"coordinates":[168.13588999999999,-15.61821],"type":"Point"}
+}

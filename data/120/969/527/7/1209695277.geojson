@@ -1,0 +1,61 @@
+{
+  "id": 1209695277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.76667,-15.4,166.76667,-15.4",
+    "geom:latitude":-15.4,
+    "geom:longitude":166.76667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Latouptoup",
+    "gn:country_code":"VU",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136576,
+    "gn:latitude":-15.4,
+    "gn:longitude":166.76667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Latouptoup",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136576
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6013f1c14f93d29479502448b6b7d394",
+    "wof:hierarchy":[
+        {
+            "country_id":85632263,
+            "locality_id":1209695277
+        }
+    ],
+    "wof:id":1209695277,
+    "wof:lastmodified":1536279098,
+    "wof:name":"Latouptoup",
+    "wof:parent_id":85632263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.76667,
+    -15.4,
+    166.76667,
+    -15.4
+],
+  "geometry": {"coordinates":[166.76667,-15.4],"type":"Point"}
+}

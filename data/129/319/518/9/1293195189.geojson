@@ -1,0 +1,65 @@
+{
+  "id": 1293195189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.53333,-13.16667,166.53333,-13.16667",
+    "geom:latitude":-13.16667,
+    "geom:longitude":166.53333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Wounepara",
+    "gn:country_code":"VU",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2134096,
+    "gn:latitude":-13.16667,
+    "gn:longitude":166.53333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Woun\u00e9para",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134096
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"e42b56cd10051a3cc90ccbb39ec06a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1293195189,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":1293195189,
+    "wof:lastmodified":1536711792,
+    "wof:name":"Wounepara",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.53333,
+    -13.16667,
+    166.53333,
+    -13.16667
+],
+  "geometry": {"coordinates":[166.53333000000001,-13.16667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343734675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.13333,-16.13333,168.13333,-16.13333",
+    "geom:latitude":-16.13333,
+    "geom:longitude":168.13333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Fanla",
+    "gn:country_code":"VU",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2137036,
+    "gn:latitude":-16.13333,
+    "gn:longitude":168.13333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Fanla",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632263,
+        85680883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2137036,
+        "wk:page":"Fanla"
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"10e056b0317385beb78e5a73a2815597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":1343734675,
+            "region_id":85680883
+        }
+    ],
+    "wof:id":1343734675,
+    "wof:lastmodified":1537576046,
+    "wof:name":"Fanla",
+    "wof:parent_id":85680883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.13333,
+    -16.13332999999999,
+    168.13333,
+    -16.13332999999999
+],
+  "geometry": {"coordinates":[168.13333,-16.13332999999999],"type":"Point"}
+}

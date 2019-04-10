@@ -1,0 +1,64 @@
+{
+  "id": 1226422051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.68333,-14.76667,166.68333,-14.76667",
+    "geom:latitude":-14.76667,
+    "geom:longitude":166.68333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Malvouko",
+    "gn:country_code":"VU",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2136066,
+    "gn:latitude":-14.76667,
+    "gn:longitude":166.68333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Malvouko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Efate",
+    "iso:country":"VU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malovuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2136066
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6d6c14dcff8360b6fa5372039b1d63c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226422051,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226422051,
+    "wof:lastmodified":1537714746,
+    "wof:name":"Malvouko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.68333,
+    -14.76667,
+    166.68333,
+    -14.76667
+],
+  "geometry": {"coordinates":[166.68333000000001,-14.76667],"type":"Point"}
+}
