@@ -24,19 +24,13 @@
     "name:bul_x_preferred":[
         "\u0418\u0441\u0430\u043d\u0433\u0435\u043b"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6851\u57c3\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Isangel"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Isangel"
     ],
     "name:eng_x_preferred":[
         "Isangel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Isangel"
     ],
     "name:hrv_x_preferred":[
@@ -53,6 +47,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0418\u0441\u0430\u043d\u0433\u0435\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Isangel"
     ],
     "name:nob_x_preferred":[
         "Isangel"
@@ -74,6 +71,9 @@
     ],
     "name:vep_x_preferred":[
         "Isangel"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6851\u57c3\u723e"
     ],
     "qs:name":"Isangel",
     "qs:photos_9r":0,
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":890452723,
-    "wof:lastmodified":1527734186,
+    "wof:lastmodified":1561830131,
     "wof:name":"Isangel",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",

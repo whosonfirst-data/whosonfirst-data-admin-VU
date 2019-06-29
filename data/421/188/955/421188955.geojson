@@ -31,16 +31,7 @@
     "name:ces_x_preferred":[
         "Luganville"
     ],
-    "name:chi_x_preferred":[
-        "\u5362\u7518\u7ef4\u5c14"
-    ],
-    "name:cze_x_preferred":[
-        "Luganville"
-    ],
     "name:deu_x_preferred":[
-        "Luganville"
-    ],
-    "name:dut_x_preferred":[
         "Luganville"
     ],
     "name:eng_x_preferred":[
@@ -53,12 +44,6 @@
         "Luganville"
     ],
     "name:fra_x_preferred":[
-        "Luganville"
-    ],
-    "name:fre_x_preferred":[
-        "Luganville"
-    ],
-    "name:ger_x_preferred":[
         "Luganville"
     ],
     "name:heb_x_preferred":[
@@ -78,9 +63,6 @@
     ],
     "name:lit_x_preferred":[
         "Luganvilis"
-    ],
-    "name:may_x_preferred":[
-        "Luganville"
     ],
     "name:mrj_x_preferred":[
         "\u041b\u0443\u0433\u0430\u043d\u0432\u0438\u043b\u043b"
@@ -267,7 +249,7 @@
         }
     ],
     "wof:id":421188955,
-    "wof:lastmodified":1534379807,
+    "wof:lastmodified":1561830131,
     "wof:name":"Luganville",
     "wof:parent_id":85680875,
     "wof:placetype":"locality",
