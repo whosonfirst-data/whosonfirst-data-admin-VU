@@ -43,14 +43,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Shefa"
     ],
-    "name:chi_x_preferred":[
-        "\u8c22\u6cd5\u7701"
-    ],
     "name:dan_x_preferred":[
         "Shefa Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Shefa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Shefa"
@@ -64,20 +64,11 @@
     "name:fra_x_preferred":[
         "Shefa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sh\u00e9fa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d4\u10e4\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Shefa"
     ],
     "name:glg_x_preferred":[
         "Shefa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0aab\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -100,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cb7\u0cc6\u0cab\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10e4\u10d0"
+    ],
     "name:kin_x_preferred":[
         "Intara ya Shefa"
     ],
@@ -115,11 +109,14 @@
     "name:mar_x_preferred":[
         "\u0936\u0947\u092b\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Shefa Province"
-    ],
     "name:mrj_x_preferred":[
         "\u0428\u0435\u0444\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Shefa Province"
+    ],
+    "name:nld_x_preferred":[
+        "Shefa"
     ],
     "name:nob_x_preferred":[
         "Shefa"
@@ -165,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Shefa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c22\u6cd5\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VUT",
@@ -290,7 +290,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553550622,
+    "wof:lastmodified":1561830128,
     "wof:name":"Shefa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

@@ -40,14 +40,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u9a6c\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sanma Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sanma"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03bc\u03ac"
     ],
     "name:eng_x_preferred":[
         "Sanma"
@@ -61,20 +61,8 @@
     "name:fra_x_preferred":[
         "Sanma"
     ],
-    "name:fre_x_preferred":[
-        "Sanma"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sanma"
-    ],
     "name:glg_x_preferred":[
         "Sanma"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03bc\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -97,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ca8\u0ccd\u0cae\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10db\u10d0"
+    ],
     "name:kin_x_preferred":[
         "Intara ya Sanma"
     ],
@@ -109,17 +100,20 @@
     "name:lit_x_preferred":[
         "Sanma"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u043d\u043c\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Sanma Province"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u043c\u0430"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0430\u043d\u043c\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Sanma Province"
+    ],
+    "name:nld_x_preferred":[
+        "Sanma"
     ],
     "name:nob_x_preferred":[
         "Sanma"
@@ -168,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Sanma"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u9a6c\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"VUT",
@@ -294,7 +291,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1553550620,
+    "wof:lastmodified":1561830128,
     "wof:name":"Sanma",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
