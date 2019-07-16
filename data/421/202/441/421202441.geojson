@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "L\u00e9nakel"
+    ],
     "name:ces_x_preferred":[
         "Lenakel"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421202441,
-    "wof:lastmodified":1561830131,
+    "wof:lastmodified":1563281163,
     "wof:name":"Lenakel",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",

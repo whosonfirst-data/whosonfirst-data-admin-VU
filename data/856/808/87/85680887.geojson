@@ -40,6 +40,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u043d\u0430\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Penama Province"
+    ],
     "name:dan_x_preferred":[
         "Penama Province"
     ],
@@ -287,7 +290,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561830128,
+    "wof:lastmodified":1563281054,
     "wof:name":"Penama",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

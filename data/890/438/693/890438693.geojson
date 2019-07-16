@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Sola"
     ],
+    "name:ceb_x_preferred":[
+        "Sola"
+    ],
     "name:deu_x_preferred":[
         "Sola"
     ],
@@ -37,6 +40,9 @@
         "Sola"
     ],
     "name:hrv_x_preferred":[
+        "Sola"
+    ],
+    "name:ita_x_preferred":[
         "Sola"
     ],
     "name:jpn_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890438693,
-    "wof:lastmodified":1561830131,
+    "wof:lastmodified":1563281166,
     "wof:name":"Sola",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

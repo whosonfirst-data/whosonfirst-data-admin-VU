@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u0418\u0441\u0430\u043d\u0433\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Isangel"
+    ],
     "name:ces_x_preferred":[
+        "Isangel"
+    ],
+    "name:deu_x_preferred":[
         "Isangel"
     ],
     "name:eng_x_preferred":[
@@ -32,6 +38,9 @@
         "Isangel"
     ],
     "name:hrv_x_preferred":[
+        "Isangel"
+    ],
+    "name:ita_x_preferred":[
         "Isangel"
     ],
     "name:jpn_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421203531,
-    "wof:lastmodified":1561830131,
+    "wof:lastmodified":1563281163,
     "wof:name":"Isangel",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",
