@@ -68,6 +68,9 @@
     "name:cdo_x_preferred":[
         "Port Vila"
     ],
+    "name:ceb_x_preferred":[
+        "Port-Vila"
+    ],
     "name:ces_x_preferred":[
         "Port Vila"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:dan_x_preferred":[
         "Port-Vila"
+    ],
+    "name:dan_x_variant":[
+        "Port Vila"
     ],
     "name:deu_x_preferred":[
         "Port Vila"
@@ -173,6 +179,9 @@
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10e0\u10e2-\u10d5\u10d8\u10da\u10d0"
     ],
+    "name:kir_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0412\u0438\u043b\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\ube4c\ub77c"
     ],
@@ -181,6 +190,9 @@
     ],
     "name:lav_x_preferred":[
         "Vila"
+    ],
+    "name:lij_x_preferred":[
+        "Porto Vila"
     ],
     "name:lit_x_preferred":[
         "Port Vila"
@@ -486,7 +498,7 @@
         }
     ],
     "wof:id":890416453,
-    "wof:lastmodified":1561830131,
+    "wof:lastmodified":1563281168,
     "wof:name":"Port-Vila",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",

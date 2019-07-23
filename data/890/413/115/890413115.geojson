@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0430\u0442\u043e\u0440\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Lakatoro"
+    ],
     "name:deu_x_preferred":[
         "Lakatoro"
     ],
@@ -32,6 +35,12 @@
     ],
     "name:hrv_x_preferred":[
         "Lakatoro"
+    ],
+    "name:ita_x_preferred":[
+        "Lakatoro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30ab\u30c8\u30ed"
     ],
     "name:lit_x_preferred":[
         "Lakatoras"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890413115,
-    "wof:lastmodified":1561830131,
+    "wof:lastmodified":1563281164,
     "wof:name":"Lakatoro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

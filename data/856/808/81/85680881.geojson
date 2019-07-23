@@ -39,6 +39,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0444\u0435\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tafea Province"
+    ],
     "name:dan_x_preferred":[
         "Tafea Province"
     ],
@@ -286,7 +289,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561830129,
+    "wof:lastmodified":1563281056,
     "wof:name":"Tafea",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

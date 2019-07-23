@@ -40,6 +40,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0430\u043c\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Malampa Province"
+    ],
     "name:ces_x_preferred":[
         "Malampa"
     ],
@@ -292,7 +295,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1561830129,
+    "wof:lastmodified":1563281056,
     "wof:name":"Malampa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
