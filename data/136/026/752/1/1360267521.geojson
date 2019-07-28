@@ -25,6 +25,18 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lowa"
+    ],
+    "name:deu_x_preferred":[
+        "Lowa"
+    ],
+    "name:fra_x_preferred":[
+        "Lowa"
+    ],
+    "name:swe_x_preferred":[
+        "Lowa"
+    ],
     "name:und_x_variant":[
         "Lawe",
         "Lowe",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1360267521,
-    "wof:lastmodified":1537714747,
+    "wof:lastmodified":1564329518,
     "wof:name":"Lowa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

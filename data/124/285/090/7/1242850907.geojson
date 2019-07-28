@@ -25,6 +25,12 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hog Harbour"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0433-\u0425\u0430\u0440\u0431\u043e\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1242850907,
-    "wof:lastmodified":1537576046,
+    "wof:lastmodified":1564329551,
     "wof:name":"Hog Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -25,6 +25,60 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bxr_x_preferred":[
+        "\u0417\u044d\u0431\u0433\u044d\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Brachymystax"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u0644\u200c\u0622\u0644\u0627\u06cc \u0622\u0633\u06cc\u0627\u06cc\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Lenokit"
+    ],
+    "name:fra_x_preferred":[
+        "Brachymystax"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0439\u049b\u0430\u043f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5f4\ubaa9\uc5b4\uc18d"
+    ],
+    "name:lit_x_preferred":[
+        "Lenokai"
+    ],
+    "name:mon_x_preferred":[
+        "\u0417\u044d\u0432\u044d\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Brachymystax"
+    ],
+    "name:pol_x_preferred":[
+        "Brachymystax"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Brachymystax"
+    ],
+    "name:swe_x_preferred":[
+        "Brachymystax"
+    ],
+    "name:tyv_x_preferred":[
+        "\u041c\u044b\u0439\u044b\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u043e\u043a"
+    ],
+    "name:war_x_preferred":[
+        "Brachymystax"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ec6\u9cde\u9c91\u5c5e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +100,7 @@
         }
     ],
     "wof:id":1292977131,
-    "wof:lastmodified":1537024712,
+    "wof:lastmodified":1564329439,
     "wof:name":"Lenok",
     "wof:parent_id":85680887,
     "wof:placetype":"locality",

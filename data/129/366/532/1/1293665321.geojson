@@ -25,6 +25,27 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alele"
+    ],
+    "name:deu_x_preferred":[
+        "Alele"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Alele"
+    ],
+    "name:ita_x_preferred":[
+        "Alele"
+    ],
+    "name:pol_x_preferred":[
+        "Alele"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u06cc\u0644\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1293665321,
-    "wof:lastmodified":1537026794,
+    "wof:lastmodified":1564329435,
     "wof:name":"Alele",
     "wof:parent_id":85680887,
     "wof:placetype":"locality",

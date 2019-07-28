@@ -25,6 +25,21 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ifo"
+    ],
+    "name:hau_x_preferred":[
+        "Ifo"
+    ],
+    "name:ita_x_preferred":[
+        "Ifo"
+    ],
+    "name:por_x_preferred":[
+        "Ifo"
+    ],
+    "name:spa_x_preferred":[
+        "Ifo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1310378561,
-    "wof:lastmodified":1537096886,
+    "wof:lastmodified":1564329503,
     "wof:name":"Ifo",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",
