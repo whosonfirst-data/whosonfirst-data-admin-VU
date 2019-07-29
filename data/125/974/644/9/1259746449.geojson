@@ -25,6 +25,9 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pango"
+    ],
     "name:und_x_variant":[
         "\u00c9p\u0304ang",
         "Pango"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1259746449,
-    "wof:lastmodified":1537714744,
+    "wof:lastmodified":1564329568,
     "wof:name":"Pango",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Iriki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1309730755,
-    "wof:lastmodified":1537037648,
+    "wof:lastmodified":1564329532,
     "wof:name":"Iriki",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",

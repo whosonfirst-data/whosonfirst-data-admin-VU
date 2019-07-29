@@ -25,6 +25,147 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Montmartre"
+    ],
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0645\u0648\u0646\u0645\u0627\u0631\u062a\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Monmartr"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u043d\u043c\u0430\u0440\u0442\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u043c\u0430\u0440\u0442\u044a\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Montmartre"
+    ],
+    "name:ces_x_preferred":[
+        "Montmartre"
+    ],
+    "name:dan_x_preferred":[
+        "Montmartre"
+    ],
+    "name:deu_x_preferred":[
+        "Montmartre"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03bc\u03ac\u03c1\u03c4\u03c1\u03b7"
+    ],
+    "name:epo_x_preferred":[
+        "Montmartre"
+    ],
+    "name:est_x_preferred":[
+        "Montmartre"
+    ],
+    "name:eus_x_preferred":[
+        "Montmartre"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u200c\u0645\u0627\u0631\u062a\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Montmartre"
+    ],
+    "name:fra_x_preferred":[
+        "Montmartre"
+    ],
+    "name:glg_x_preferred":[
+        "Montmartre"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05de\u05d0\u05e8\u05d8\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Montmartre"
+    ],
+    "name:hun_x_preferred":[
+        "Montmartre"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u0574\u0561\u0580\u057f\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Montmartre"
+    ],
+    "name:ita_x_preferred":[
+        "Montmartre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30de\u30eb\u30c8\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ubabd\ub9c8\ub974\ud2b8\ub974"
+    ],
+    "name:lat_x_preferred":[
+        "Mons Martyrum"
+    ],
+    "name:lav_x_preferred":[
+        "Monmartrs"
+    ],
+    "name:lit_x_preferred":[
+        "Monmartras"
+    ],
+    "name:ltz_x_preferred":[
+        "Montmartre"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043d\u043c\u0430\u0440\u0442\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Montmartre"
+    ],
+    "name:nno_x_preferred":[
+        "Montmartre"
+    ],
+    "name:nor_x_preferred":[
+        "Montmartre"
+    ],
+    "name:pol_x_preferred":[
+        "Montmartre"
+    ],
+    "name:por_x_preferred":[
+        "Montmartre"
+    ],
+    "name:ron_x_preferred":[
+        "Montmartre"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u043c\u0430\u0440\u0442\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Montmartre"
+    ],
+    "name:spa_x_preferred":[
+        "Montmartre"
+    ],
+    "name:srd_x_preferred":[
+        "Montmarte"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u043d\u043c\u0430\u0440\u0442\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Montmartre"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e07\u0e21\u0e32\u0e17\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Montmartre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u043c\u0430\u0440\u0442\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Montmartre"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u99ac\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +187,7 @@
         }
     ],
     "wof:id":1260258567,
-    "wof:lastmodified":1536745326,
+    "wof:lastmodified":1564329493,
     "wof:name":"Montmartre",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Ipota"
+    ],
     "name:eng_x_preferred":[
         "Ipota"
+    ],
+    "name:fra_x_preferred":[
+        "Ipota"
+    ],
+    "name:hrv_x_preferred":[
+        "Ipota"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u043f\u043e\u0442\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1193248767,
-    "wof:lastmodified":1537714750,
+    "wof:lastmodified":1564329486,
     "wof:name":"Ipota",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

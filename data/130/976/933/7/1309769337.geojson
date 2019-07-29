@@ -25,6 +25,12 @@
     "iso:country":"VU",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Forari"
+    ],
+    "name:pol_x_preferred":[
+        "Forari"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u043e\u0440\u0430\u0440\u0438"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309769337,
-    "wof:lastmodified":1537714743,
+    "wof:lastmodified":1564329528,
     "wof:name":"Forari",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",
