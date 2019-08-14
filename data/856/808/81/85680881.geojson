@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TF"
+    ],
     "lbl:latitude":-18.816113,
     "lbl:longitude":169.10448,
     "mps:latitude":-18.816113,
@@ -276,9 +279,6 @@
         }
     ],
     "wof:id":85680881,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "bis",
         "eng",
@@ -289,7 +289,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563281056,
+    "wof:lastmodified":1565739676,
     "wof:name":"Tafea",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

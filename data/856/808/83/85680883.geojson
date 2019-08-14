@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ML"
+    ],
     "lbl:latitude":-16.33864,
     "lbl:longitude":167.528269,
     "mps:latitude":-16.33864,
@@ -282,9 +285,6 @@
         }
     ],
     "wof:id":85680883,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "bis",
         "eng",
@@ -295,7 +295,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563281056,
+    "wof:lastmodified":1565739676,
     "wof:name":"Malampa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

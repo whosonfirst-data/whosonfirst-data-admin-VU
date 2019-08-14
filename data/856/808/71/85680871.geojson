@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":-13.803989,
     "lbl:longitude":167.469676,
     "mps:latitude":-13.803989,
@@ -279,9 +282,6 @@
         }
     ],
     "wof:id":85680871,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "bis",
         "eng",
@@ -292,7 +292,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1563281057,
+    "wof:lastmodified":1565739676,
     "wof:name":"Torba",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
