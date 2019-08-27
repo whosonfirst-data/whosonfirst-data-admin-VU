@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"166.53509,-14.89146,166.57509,-14.85146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Olpo\u00ef"
     ],
     "name:und_x_variant":[
-        "Olpoy",
-        "Olpo\u00ef"
+        "Olpoy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259759629,
-    "wof:lastmodified":1537714745,
+    "wof:lastmodified":1566652662,
     "wof:name":"Olpoi",
     "wof:parent_id":85680875,
     "wof:placetype":"locality",

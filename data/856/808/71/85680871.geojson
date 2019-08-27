@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-13.803989,
     "lbl:longitude":167.469676,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-13.803989,
     "mps:longitude":167.469676,
     "mz:hierarchy_label":1,
@@ -143,7 +144,7 @@
         "Torba"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bbe\u0bb0\u0bcd\u0baa  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bbe\u0bb0\u0bcd\u0baa \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c30\u0c4d\u0c2c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -157,7 +158,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0422\u043e\u0440\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banks/Torres"
     ],
     "name:urd_x_preferred":[
@@ -239,9 +240,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-16",
+    "src:population_date":"2009-11-16",
     "statoids:area_km":"882",
     "statoids:area_mi":"341",
     "statoids:as_of_date":"2009-11-16",
@@ -255,7 +256,6 @@
     "statoids:timezone":"+11",
     "statoids:type":"province",
     "unlc:subdivision":"VU-TOB",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632263
@@ -267,7 +267,7 @@
         "gp:id":20069883,
         "hasc:id":"VU.TR",
         "iso:id":"VU-TOB",
-        "qs:id":1178415,
+        "qs_pg:id":1178415,
         "unlc:id":"VU-TOB",
         "wd:id":"Q822514",
         "wk:page":"Torba Province"
@@ -292,11 +292,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565739676,
+    "wof:lastmodified":1566652538,
     "wof:name":"Torba",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":9359,
     "wof:population_rank":5,

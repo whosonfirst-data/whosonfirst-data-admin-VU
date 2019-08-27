@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"168.18,-16.02,168.22,-15.98",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saint Henri et Saint-Paul",
         "Ounwarou"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293263693,
-    "wof:lastmodified":1537714744,
+    "wof:lastmodified":1566652554,
     "wof:name":"Ounwarou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

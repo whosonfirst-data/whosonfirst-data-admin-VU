@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-15.37153,
     "lbl:longitude":166.908762,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-15.37153,
     "mps:longitude":166.908762,
     "mz:hierarchy_label":1,
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0430\u043d\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santo/Malo"
     ],
     "name:urd_x_preferred":[
@@ -245,9 +246,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-16",
+    "src:population_date":"2009-11-16",
     "statoids:area_km":"4,248",
     "statoids:area_mi":"1,640",
     "statoids:as_of_date":"2009-11-16",
@@ -272,7 +273,7 @@
         "gp:id":20069884,
         "hasc:id":"VU.SN",
         "iso:id":"VU-SAM",
-        "qs:id":1184886,
+        "qs_pg:id":1184886,
         "unlc:id":"VU-SAM",
         "wd:id":"Q740640",
         "wk:page":"Sanma Province"
@@ -297,11 +298,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565739676,
+    "wof:lastmodified":1566652537,
     "wof:name":"Sanma",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":45855,
     "wof:population_rank":7,

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-17.661193,
     "lbl:longitude":168.396722,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-17.661193,
     "mps:longitude":168.396722,
     "mz:hierarchy_label":1,
@@ -160,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0428\u0435\u0444\u0430"
     ],
-    "name:unk_x_variant":[
-        "Shefa Province"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0641\u0627 \u0635\u0648\u0628\u06c1"
     ],
@@ -242,9 +240,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-16",
+    "src:population_date":"2009-11-16",
     "statoids:area_km":"1,455",
     "statoids:area_mi":"562",
     "statoids:as_of_date":"2009-11-16",
@@ -257,7 +255,6 @@
     "statoids:population":"78723",
     "statoids:timezone":"+11",
     "statoids:type":"province",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632263
@@ -269,7 +266,7 @@
         "gp:id":20069888,
         "hasc:id":"VU.SE",
         "iso:id":"VU-SEE",
-        "qs:id":223735,
+        "qs_pg:id":223735,
         "wd:id":"Q650617",
         "wk:page":"Shefa Province"
     },
@@ -293,11 +290,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565739675,
+    "wof:lastmodified":1566652537,
     "wof:name":"Shefa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":78723,
     "wof:population_rank":8,

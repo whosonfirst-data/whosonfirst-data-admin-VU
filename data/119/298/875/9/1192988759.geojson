@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"169.24667,-19.57,169.28667,-19.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1264\u1274\u120d"
     ],
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":1192988759,
-    "wof:lastmodified":1564329488,
+    "wof:lastmodified":1566652595,
     "wof:name":"Bethel",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",
