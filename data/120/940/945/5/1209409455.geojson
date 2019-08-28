@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"167.46333,-13.93667,167.50333,-13.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cr\u00e9p\u00e9ta",
         "K\u00e9r\u00e9mbitia"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209409455,
-    "wof:lastmodified":1537714748,
+    "wof:lastmodified":1566652582,
     "wof:name":"Kerembitia",
     "wof:parent_id":85632263,
     "wof:placetype":"locality",

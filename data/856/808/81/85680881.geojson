@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-18.816113,
     "lbl:longitude":169.10448,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-18.816113,
     "mps:longitude":169.10448,
     "mz:hierarchy_label":1,
@@ -156,9 +157,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0444\u0435\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tafea Province"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0641\u06cc\u0627 \u0635\u0648\u0628\u06c1"
     ],
@@ -238,9 +236,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-16",
+    "src:population_date":"2009-11-16",
     "statoids:area_km":"1,628",
     "statoids:area_mi":"629",
     "statoids:as_of_date":"2009-11-16",
@@ -253,7 +251,6 @@
     "statoids:population":"32540",
     "statoids:timezone":"+11",
     "statoids:type":"province",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632263
@@ -265,7 +262,7 @@
         "gp:id":20069887,
         "hasc:id":"VU.TF",
         "iso:id":"VU-TAE",
-        "qs:id":892861,
+        "qs_pg:id":892861,
         "wd:id":"Q576417",
         "wk:page":"Tafea Province"
     },
@@ -289,11 +286,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565739676,
+    "wof:lastmodified":1566652537,
     "wof:name":"Tafea",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":32540,
     "wof:population_rank":7,

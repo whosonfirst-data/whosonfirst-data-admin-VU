@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"167.19667,-16.07,167.23667,-16.03",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u0130nter"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1293856375,
-    "wof:lastmodified":1564329433,
+    "wof:lastmodified":1566652545,
     "wof:name":"Inter",
     "wof:parent_id":85680883,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"167.94679,-15.31031,167.98679,-15.27031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bis_x_preferred":[
         "Saratamata"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360049137,
-    "wof:lastmodified":1564329520,
+    "wof:lastmodified":1566652623,
     "wof:name":"Saratamata",
     "wof:parent_id":85680887,
     "wof:placetype":"locality",

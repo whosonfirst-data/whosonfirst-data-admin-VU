@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"168.12054,-15.51465,168.16054,-15.47465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Abwatuntora"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344228517,
-    "wof:lastmodified":1537714750,
+    "wof:lastmodified":1566652522,
     "wof:name":"Abwatuntora",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

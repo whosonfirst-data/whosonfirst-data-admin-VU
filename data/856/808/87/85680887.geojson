@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-15.752273,
     "lbl:longitude":168.186367,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-15.752273,
     "mps:longitude":168.186367,
     "mz:hierarchy_label":1,
@@ -157,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041f\u0435\u043d\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Penama Province"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0646\u0627\u0645\u0627 \u0635\u0648\u0628\u06c1"
     ],
@@ -239,9 +237,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-11-16",
+    "src:population_date":"2009-11-16",
     "statoids:area_km":"1,198",
     "statoids:area_mi":"463",
     "statoids:as_of_date":"2009-11-16",
@@ -254,7 +252,6 @@
     "statoids:population":"30819",
     "statoids:timezone":"+11",
     "statoids:type":"province",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632263
@@ -266,7 +263,7 @@
         "gp:id":20069885,
         "hasc:id":"VU.PM",
         "iso:id":"VU-PAM",
-        "qs:id":1184930,
+        "qs_pg:id":1184930,
         "wd:id":"Q836649",
         "wk:page":"Penama Province"
     },
@@ -290,11 +287,10 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1565739676,
+    "wof:lastmodified":1566652537,
     "wof:name":"Penama",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":30819,
     "wof:population_rank":7,

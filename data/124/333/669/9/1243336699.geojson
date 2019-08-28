@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"169.31333,-19.52,169.35333,-19.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lamwinaoura",
         "Lam\u0304inaora"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243336699,
-    "wof:lastmodified":1537714748,
+    "wof:lastmodified":1566652645,
     "wof:name":"Laminaora",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",

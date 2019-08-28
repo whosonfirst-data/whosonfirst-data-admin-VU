@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"167.44667,-14.38667,167.48667,-14.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mak\u00e9on\u00e9",
         "Makeone"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1226334067,
-    "wof:lastmodified":1537714750,
+    "wof:lastmodified":1566652670,
     "wof:name":"Makeone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

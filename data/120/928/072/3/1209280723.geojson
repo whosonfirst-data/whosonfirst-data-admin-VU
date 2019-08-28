@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"168.30222,-17.45333,168.34222,-17.41333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632263
@@ -34,7 +38,7 @@
         "gn:id":2206482
     },
     "wof:country":"VU",
-    "wof:geomhash":"795be1d9ead7aa108e2601302beaf41b",
+    "wof:geomhash":"6e8b6e9224cae15c5ce5177f6d353147",
     "wof:hierarchy":[
         {
             "country_id":85632263,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209280723,
-    "wof:lastmodified":1536292032,
+    "wof:lastmodified":1566652591,
     "wof:name":"Utanlangi",
     "wof:parent_id":85632263,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     168.32222,
-    -17.433329999999998,
+    -17.43333,
     168.32222,
-    -17.433329999999998
+    -17.43333
 ],
   "geometry": {"coordinates":[168.32221999999999,-17.43333],"type":"Point"}
 }

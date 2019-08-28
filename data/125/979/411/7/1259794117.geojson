@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"169.03466,-18.91354,169.07466,-18.87354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1259794117,
-    "wof:lastmodified":1536908040,
+    "wof:lastmodified":1566652655,
     "wof:name":"Demsal",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",

@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"167.28887,-15.91764,167.32887,-15.87764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vao"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326945407,
-    "wof:lastmodified":1564329392,
+    "wof:lastmodified":1566652507,
     "wof:name":"Vao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

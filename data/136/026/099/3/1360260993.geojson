@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"168.28167,-17.76167,168.32167,-17.72167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0634\u062a\u0627\u062f\u0647"
     ],
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":1360260993,
-    "wof:lastmodified":1564329519,
+    "wof:lastmodified":1566652622,
     "wof:name":"Stade",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

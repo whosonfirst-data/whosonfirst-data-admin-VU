@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"166.81333,-15.33667,166.85333,-15.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pangakara",
         "Bakakara"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243530899,
-    "wof:lastmodified":1537714749,
+    "wof:lastmodified":1566652636,
     "wof:name":"Bakakara",
     "wof:parent_id":85680875,
     "wof:placetype":"locality",

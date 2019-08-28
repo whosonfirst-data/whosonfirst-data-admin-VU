@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"169.29667,-19.48667,169.33667,-19.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209986849,
-    "wof:lastmodified":1536388216,
+    "wof:lastmodified":1566652577,
     "wof:name":"Loounihm",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",

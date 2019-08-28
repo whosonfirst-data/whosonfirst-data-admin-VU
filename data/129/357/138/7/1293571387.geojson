@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"167.13,-16.10333,167.17,-16.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Win"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293571387,
-    "wof:lastmodified":1564329435,
+    "wof:lastmodified":1566652547,
     "wof:name":"Win",
     "wof:parent_id":85680883,
     "wof:placetype":"locality",

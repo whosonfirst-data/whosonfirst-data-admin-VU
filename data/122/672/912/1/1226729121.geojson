@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Efate",
     "iso:country":"VU",
+    "lbl:bbox":"166.81333,-15.52,166.85333,-15.48",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kranturoe",
         "Krantvroe",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226729121,
-    "wof:lastmodified":1537714748,
+    "wof:lastmodified":1566652665,
     "wof:name":"Kerentavou",
     "wof:parent_id":85680875,
     "wof:placetype":"locality",
