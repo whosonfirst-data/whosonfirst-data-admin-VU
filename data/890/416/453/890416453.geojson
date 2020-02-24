@@ -492,6 +492,10 @@
     },
     "wof:country":"VU",
     "wof:created":1469051135,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bdb1a8f9d22294bac07b645a848ce655",
     "wof:hierarchy":[
         {
@@ -502,7 +506,7 @@
         }
     ],
     "wof:id":890416453,
-    "wof:lastmodified":1566652635,
+    "wof:lastmodified":1582379152,
     "wof:name":"Port-Vila",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",

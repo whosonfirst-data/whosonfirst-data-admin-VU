@@ -820,6 +820,7 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -875,6 +876,10 @@
     },
     "wof:country":"VU",
     "wof:country_alpha3":"VUT",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"7ef9c2584cf73eecb4ec2c7875c633d6",
     "wof:hierarchy":[
         {
@@ -893,7 +898,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1566652536,
+    "wof:lastmodified":1582379149,
     "wof:name":"Vanuatu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
