@@ -221,7 +221,8 @@
     "qs:woe_id":1050900,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "wd:wordcount":674,
     "wof:belongsto":[
@@ -239,6 +240,10 @@
     },
     "wof:country":"VU",
     "wof:created":1459009589,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"de155460c7a76324df3ffb509c4eaf7f",
     "wof:hierarchy":[
         {
@@ -249,7 +254,7 @@
         }
     ],
     "wof:id":421188955,
-    "wof:lastmodified":1561830131,
+    "wof:lastmodified":1582379151,
     "wof:name":"Luganville",
     "wof:parent_id":85680875,
     "wof:placetype":"locality",
