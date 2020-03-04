@@ -820,7 +820,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -898,7 +897,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1582379149,
+    "wof:lastmodified":1583259862,
     "wof:name":"Vanuatu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
