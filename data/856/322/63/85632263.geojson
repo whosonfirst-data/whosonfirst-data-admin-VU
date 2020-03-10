@@ -851,9 +851,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Vanuatu",
-        "digitalenvoy:country_code":[
-            548
-        ],
+        "digitalenvoy:country_code":548,
         "fb:id":"en.vanuatu",
         "fifa:id":"VAN",
         "fips:code":"NH",
@@ -900,7 +898,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1583529248,
+    "wof:lastmodified":1583797458,
     "wof:name":"Vanuatu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
