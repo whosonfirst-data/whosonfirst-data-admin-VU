@@ -9,7 +9,6 @@
     "geom:bbox":"166.522079,-20.251249,170.213745,-13.07125",
     "geom:latitude":-16.204628,
     "geom:longitude":167.703777,
-    "gn:id":"",
     "gn:population":221552,
     "iso:country":"VU",
     "itu:country_code":[
@@ -944,7 +943,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1587428745,
+    "wof:lastmodified":1603263336,
     "wof:name":"Vanuatu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
