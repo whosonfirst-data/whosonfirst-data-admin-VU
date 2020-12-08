@@ -494,7 +494,9 @@
         85680893
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632263,
+    "wof:capital_of":[
+        85632263
+    ],
     "wof:concordances":{
         "gn:id":2135171,
         "gp:id":1050907,
@@ -521,7 +523,7 @@
         }
     ],
     "wof:id":890416453,
-    "wof:lastmodified":1587428745,
+    "wof:lastmodified":1607390883,
     "wof:name":"Port-Vila",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",
