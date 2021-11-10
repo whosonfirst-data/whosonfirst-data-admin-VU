@@ -44,6 +44,9 @@
     "name:aze_x_preferred":[
         "Boqor"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u0997\u09cb\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0440"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Bogor"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03b3\u03ba\u03bf\u03c1"
     ],
     "name:epo_x_preferred":[
         "Bogor"
@@ -175,7 +181,7 @@
         "gn:id":2137292
     },
     "wof:country":"VU",
-    "wof:geomhash":"d1851ef71e64ce6672241cee4b9599a8",
+    "wof:geomhash":"388ca19cbd22ee2d61ced83693bd6684",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1309975727,
-    "wof:lastmodified":1566652625,
+    "wof:lastmodified":1636504683,
     "wof:name":"Bogor",
     "wof:parent_id":85680883,
     "wof:placetype":"locality",
@@ -196,9 +202,9 @@
 },
   "bbox": [
     168.15,
-    -16.11667000000001,
+    -16.11667,
     168.15,
-    -16.11667000000001
+    -16.11667
 ],
-  "geometry": {"coordinates":[168.15000000000001,-16.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[168.15000000000001,-16.11667],"type":"Point"}
 }

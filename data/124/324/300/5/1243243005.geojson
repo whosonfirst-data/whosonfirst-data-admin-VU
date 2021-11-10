@@ -32,6 +32,12 @@
     "name:fra_x_preferred":[
         "Kole Weathers"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kole"
+    ],
     "name:ron_x_preferred":[
         "Kole"
     ],
@@ -45,7 +51,7 @@
         "gn:id":2136757
     },
     "wof:country":"VU",
-    "wof:geomhash":"9ee45660cdab02b584a005449b505aeb",
+    "wof:geomhash":"b857fb00ebad0f8ebb93daf547b95cff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243243005,
-    "wof:lastmodified":1566652640,
+    "wof:lastmodified":1636504683,
     "wof:name":"Kole",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    167.16666999999995,
+    167.16667,
     -15.23333,
-    167.16666999999995,
+    167.16667,
     -15.23333
 ],
-  "geometry": {"coordinates":[167.16666999999995,-15.23333],"type":"Point"}
+  "geometry": {"coordinates":[167.16667000000001,-15.23333],"type":"Point"}
 }

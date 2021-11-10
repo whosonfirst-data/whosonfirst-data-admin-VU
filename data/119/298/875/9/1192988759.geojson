@@ -66,6 +66,9 @@
         "\u05d1\u05d9\u05ea \u05d0\u05dc"
     ],
     "name:hun_x_preferred":[
+        "Bethel"
+    ],
+    "name:hun_x_variant":[
         "B\u00e9tel"
     ],
     "name:hye_x_preferred":[
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":1192988759,
-    "wof:lastmodified":1566652595,
+    "wof:lastmodified":1636504683,
     "wof:name":"Bethel",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",

@@ -61,6 +61,9 @@
     "name:epo_x_preferred":[
         "Tafea"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0641\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tafea"
     ],
@@ -76,10 +79,16 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0aab\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e4\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u0947\u092b\u093f\u092f\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hrv_x_preferred":[
+        "Tafea"
+    ],
+    "name:hun_x_preferred":[
         "Tafea"
     ],
     "name:ind_x_preferred":[
@@ -286,7 +295,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1614896544,
+    "wof:lastmodified":1636504683,
     "wof:name":"Tafea",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

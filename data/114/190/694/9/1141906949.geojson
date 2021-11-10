@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"167.176606811,-15.5125557263,167.176606811,-15.5125557263",
+    "geom:bbox":"167.176607,-15.512556,167.176607,-15.512556",
     "geom:latitude":-15.512556,
     "geom:longitude":167.176607,
     "iso:country":"VU",
@@ -27,6 +27,9 @@
     "name:bel_x_variant":[
         "\u041b\u0443\u0433\u0430\u043d\u0432\u0456\u043b"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u0997\u09be\u09a8\u09ad\u09bf\u09b2\u09c7"
+    ],
     "name:bis_x_preferred":[
         "Luganville"
     ],
@@ -42,6 +45,9 @@
     "name:deu_x_preferred":[
         "Luganville"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b3\u03ba\u03b1\u03bd\u03b2\u03af\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Luganville"
     ],
@@ -54,7 +60,16 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d2\u05e0\u05d5\u05d5\u05d9\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0917\u093e\u0928\u0935\u093f\u0932"
+    ],
     "name:hrv_x_preferred":[
+        "Luganville"
+    ],
+    "name:hun_x_preferred":[
+        "Luganville"
+    ],
+    "name:ind_x_preferred":[
         "Luganville"
     ],
     "name:ita_x_preferred":[
@@ -119,6 +134,9 @@
     ],
     "name:vep_x_preferred":[
         "Luganvill"
+    ],
+    "name:vie_x_preferred":[
+        "Luganville"
     ],
     "name:zho_x_preferred":[
         "\u5362\u7518\u7ef4\u5c14"
@@ -236,7 +254,7 @@
     },
     "wof:country":"VU",
     "wof:created":1499130660,
-    "wof:geomhash":"51de9d92fbaa76daea48e347f26ffd7e",
+    "wof:geomhash":"94dc70faecafbc23d55475d80a8a5469",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -246,7 +264,7 @@
         }
     ],
     "wof:id":1141906949,
-    "wof:lastmodified":1566652686,
+    "wof:lastmodified":1636504684,
     "wof:name":"Luganville",
     "wof:parent_id":85680875,
     "wof:placetype":"locality",
@@ -258,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    167.1766068107778,
-    -15.51255572628259,
-    167.1766068107778,
-    -15.51255572628259
+    167.176607,
+    -15.512556,
+    167.176607,
+    -15.512556
 ],
-  "geometry": {"coordinates":[167.1766068107778,-15.51255572628259],"type":"Point"}
+  "geometry": {"coordinates":[167.17660699999999,-15.512556],"type":"Point"}
 }

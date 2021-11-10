@@ -65,6 +65,9 @@
     "name:epo_x_preferred":[
         "Shefa"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0641\u0627"
+    ],
     "name:fin_x_preferred":[
         "Shefa"
     ],
@@ -80,10 +83,16 @@
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0aab\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05b6\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0936\u0947\u092b\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hrv_x_preferred":[
+        "Shefa"
+    ],
+    "name:hun_x_preferred":[
         "Shefa"
     ],
     "name:ind_x_preferred":[
@@ -290,7 +299,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1614896544,
+    "wof:lastmodified":1636504682,
     "wof:name":"Shefa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
