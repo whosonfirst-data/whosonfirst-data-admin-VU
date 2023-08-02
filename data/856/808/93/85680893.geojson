@@ -65,6 +65,9 @@
     "name:epo_x_preferred":[
         "Shefa"
     ],
+    "name:est_x_preferred":[
+        "Shefa provints"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0641\u0627"
     ],
@@ -95,6 +98,9 @@
     "name:hun_x_preferred":[
         "Shefa"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0565\u0586\u0561"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Shefa"
     ],
@@ -116,6 +122,9 @@
     "name:kor_x_preferred":[
         "\uc170\ud30c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc170\ud30c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "\u0160efas province"
     ],
@@ -125,11 +134,17 @@
     "name:mar_x_preferred":[
         "\u0936\u0947\u092b\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0435\u0444\u0430"
+    ],
     "name:mrj_x_preferred":[
         "\u0428\u0435\u0444\u0430"
     ],
     "name:msa_x_preferred":[
         "Shefa Province"
+    ],
+    "name:nan_x_preferred":[
+        "Shefa S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Shefa"
@@ -299,7 +314,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636504682,
+    "wof:lastmodified":1690921630,
     "wof:name":"Shefa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

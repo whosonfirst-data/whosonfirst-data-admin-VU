@@ -113,6 +113,9 @@
     "name:kor_x_preferred":[
         "\ud1a0\ub974\ubc14 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud1a0\ub974\ubc14\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Torbas province"
     ],
@@ -122,11 +125,17 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0930\u092c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:mkd_x_preferred":[
+        "\u0422\u043e\u0440\u0431\u0430"
+    ],
     "name:mrj_x_preferred":[
         "\u0422\u043e\u0440\u0431\u0430"
     ],
     "name:msa_x_preferred":[
         "Torba Province"
+    ],
+    "name:nan_x_preferred":[
+        "Torba S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Torba"
@@ -145,6 +154,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0ddc\u0dbb\u0dca\u0db6\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slv_x_preferred":[
+        "Torba"
     ],
     "name:spa_x_preferred":[
         "Torba"
@@ -301,7 +313,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636504683,
+    "wof:lastmodified":1690921633,
     "wof:name":"Torba",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

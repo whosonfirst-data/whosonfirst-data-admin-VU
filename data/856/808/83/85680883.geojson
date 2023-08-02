@@ -83,6 +83,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05d0\u05e0\u05d6'\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05d0\u05dc\u05d0\u05de\u05e4\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0932\u093e\u092e\u094d\u092a\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -113,6 +116,9 @@
     "name:kor_x_preferred":[
         "\ub9d0\ub78c\ud30c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9d0\ub78c\ud30c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Malampas province"
     ],
@@ -130,6 +136,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Malampa"
+    ],
+    "name:nan_x_preferred":[
+        "Malampa S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Malampa"
@@ -301,7 +310,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636504683,
+    "wof:lastmodified":1690921632,
     "wof:name":"Malampa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

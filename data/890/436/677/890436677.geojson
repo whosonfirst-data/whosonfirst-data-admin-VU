@@ -49,6 +49,12 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u041e\u043b\u0440\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Port Olry"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5229\u6e2f"
+    ],
     "qs:name":"Port-Olry",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890436677,
-    "wof:lastmodified":1566652635,
+    "wof:lastmodified":1690921636,
     "wof:name":"Port-Olry",
     "wof:parent_id":85680875,
     "wof:placetype":"locality",
