@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Norsup"
+    ],
     "name:ceb_x_preferred":[
         "\u00celot Norsoup"
+    ],
+    "name:deu_x_preferred":[
+        "Norsup"
     ],
     "name:eng_x_preferred":[
         "Norsup"
@@ -42,6 +48,9 @@
     ],
     "name:und_x_variant":[
         "Norsoup"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u8607\u666e"
     ],
     "qs_pg:aaroncc":"VU",
     "qs_pg:gn_country":"VU",
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1125822487,
-    "wof:lastmodified":1566652635,
+    "wof:lastmodified":1690921637,
     "wof:name":"Norsup",
     "wof:parent_id":85680883,
     "wof:placetype":"locality",

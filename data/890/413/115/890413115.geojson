@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Lakatoro"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0430\u0442\u043e\u0440\u043e"
     ],
@@ -46,6 +49,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30ab\u30c8\u30ed"
     ],
+    "name:kor_x_preferred":[
+        "\ub77c\uce74\ud1a0\ub85c"
+    ],
     "name:lit_x_preferred":[
         "Lakatoras"
     ],
@@ -62,6 +68,9 @@
         "Lakatoro"
     ],
     "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0442\u043e\u0440\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u041b\u0430\u043a\u0430\u0442\u043e\u0440\u043e"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":890413115,
-    "wof:lastmodified":1566652634,
+    "wof:lastmodified":1690921635,
     "wof:name":"Lakatoro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

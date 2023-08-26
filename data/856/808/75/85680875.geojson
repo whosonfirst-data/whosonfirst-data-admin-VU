@@ -113,6 +113,9 @@
     "name:kor_x_preferred":[
         "\uc0b0\ub9c8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub9c8\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Sanma province"
     ],
@@ -130,6 +133,9 @@
     ],
     "name:msa_x_preferred":[
         "Sanma Province"
+    ],
+    "name:nan_x_preferred":[
+        "Sanma S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Sanma"
@@ -307,7 +313,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1636504682,
+    "wof:lastmodified":1690921631,
     "wof:name":"Sanma",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

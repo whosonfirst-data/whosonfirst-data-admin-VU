@@ -37,10 +37,19 @@
     "name:arg_x_preferred":[
         "Port Vila"
     ],
+    "name:ary_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u06a4\u064a\u0644\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u0641\u064a\u0644\u0627"
+    ],
     "name:ast_x_preferred":[
         "Port Vila"
     ],
     "name:aze_x_preferred":[
+        "Port Vila"
+    ],
+    "name:ban_x_preferred":[
         "Port Vila"
     ],
     "name:bel_x_preferred":[
@@ -128,6 +137,9 @@
         "Port Fila"
     ],
     "name:gla_x_preferred":[
+        "Port Vila"
+    ],
+    "name:gle_x_preferred":[
         "Port Vila"
     ],
     "name:glg_x_preferred":[
@@ -259,6 +271,9 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a4b\u0a30\u0a1f \u0a35\u0a3f\u0a32\u0a3e"
     ],
+    "name:pih_x_preferred":[
+        "Port Wiila"
+    ],
     "name:pms_x_preferred":[
         "Port Vila"
     ],
@@ -267,6 +282,9 @@
     ],
     "name:por_x_preferred":[
         "Port Vila"
+    ],
+    "name:por_x_variant":[
+        "Porto Vila"
     ],
     "name:pus_x_preferred":[
         "\u067e\u0648\u0631\u062a \u0648\u06cc\u0644\u0627"
@@ -523,7 +541,7 @@
         }
     ],
     "wof:id":890416453,
-    "wof:lastmodified":1607390883,
+    "wof:lastmodified":1690921636,
     "wof:name":"Port-Vila",
     "wof:parent_id":85680893,
     "wof:placetype":"locality",

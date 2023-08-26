@@ -22,6 +22,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043e\u043b\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u043e\u043b\u0430"
+    ],
     "name:bis_x_preferred":[
         "Sola"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890438693,
-    "wof:lastmodified":1566652635,
+    "wof:lastmodified":1690921636,
     "wof:name":"Sola",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

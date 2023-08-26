@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Lenakel"
+    ],
     "name:ceb_x_preferred":[
         "L\u00e9nakel"
     ],
     "name:ces_x_preferred":[
+        "Lenakel"
+    ],
+    "name:deu_x_preferred":[
         "Lenakel"
     ],
     "name:eng_x_preferred":[
@@ -28,6 +34,9 @@
     ],
     "name:fra_x_preferred":[
         "Lenakel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30ca\u30b1\u30eb"
     ],
     "name:lit_x_preferred":[
         "Lenakelis"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":421202441,
-    "wof:lastmodified":1566652634,
+    "wof:lastmodified":1690921634,
     "wof:name":"Lenakel",
     "wof:parent_id":85680881,
     "wof:placetype":"locality",
