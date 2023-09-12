@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.057112,
-    "geom:area_square_m":12547937785.525364,
+    "geom:area_square_m":12547937785.523169,
     "geom:bbox":"166.522079,-20.251249,170.213745,-13.07125",
     "geom:latitude":-16.204628,
     "geom:longitude":167.703777,
@@ -14,6 +14,9 @@
     "iso:country":"VU",
     "itu:country_code":[
         "678"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "VU"
@@ -1023,7 +1026,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"678",
     "statoids:ds":"VU",
     "statoids:fifa":"VAN",
@@ -1081,7 +1085,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"95eb178f0592e7a63e879953376dfe52",
+    "wof:geomhash":"74c4ce964753759fc593b0080bf48974",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1099,12 +1103,12 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690921630,
+    "wof:lastmodified":1694492108,
     "wof:name":"Vanuatu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":252763,
-    "wof:population_rank":10,
+    "wof:population":299882,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-vu",
     "wof:shortcode":"VU",
     "wof:superseded_by":[],
