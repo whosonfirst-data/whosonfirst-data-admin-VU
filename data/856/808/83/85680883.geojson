@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241125,
-    "geom:area_square_m":2862240397.135101,
+    "geom:area_square_m":2862240986.063005,
     "geom:bbox":"167.144216,-16.587335,168.361339,-15.867364",
     "geom:latitude":-16.263563,
     "geom:longitude":167.649838,
@@ -284,14 +284,16 @@
         "gn:id":2208265,
         "gp:id":20069886,
         "hasc:id":"VU.ML",
+        "iso:code":"VU-MAP",
         "iso:id":"VU-MAP",
         "qs_pg:id":343870,
         "unlc:id":"VU-MAP",
         "wd:id":"Q740656",
         "wk:page":"Malampa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VU",
-    "wof:geomhash":"c01e4bfd606e936584c6d90dbc5154d2",
+    "wof:geomhash":"267683270de0775774d70c3b1d045edb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -310,7 +312,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690921632,
+    "wof:lastmodified":1695884956,
     "wof:name":"Malampa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
