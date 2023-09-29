@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06788,
-    "geom:area_square_m":814781094.048769,
+    "geom:area_square_m":814781041.111291,
     "geom:bbox":"166.520518,-14.31992,167.716645,-13.064874",
     "geom:latitude":-13.894269,
     "geom:longitude":167.385217,
@@ -287,14 +287,16 @@
         "gn:id":2137421,
         "gp:id":20069883,
         "hasc:id":"VU.TR",
+        "iso:code":"VU-TOB",
         "iso:id":"VU-TOB",
         "qs_pg:id":1178415,
         "unlc:id":"VU-TOB",
         "wd:id":"Q822514",
         "wk:page":"Torba Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VU",
-    "wof:geomhash":"4735c04c635b68b780e16a47d1d5c48d",
+    "wof:geomhash":"e86403bd828b3e0c0a83f722e9045004",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -313,7 +315,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690921633,
+    "wof:lastmodified":1695884956,
     "wof:name":"Torba",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

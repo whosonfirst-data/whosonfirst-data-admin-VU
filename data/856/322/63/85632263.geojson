@@ -1065,6 +1065,7 @@
         "hasc:id":"VU",
         "icao:code":"YJ",
         "ioc:id":"VAN",
+        "iso:code":"VU",
         "itu:id":"VUT",
         "loc:id":"n81088147",
         "m49:code":"548",
@@ -1079,6 +1080,7 @@
         "wk:page":"Vanuatu",
         "wmo:id":"NV"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VU",
     "wof:country_alpha3":"VUT",
     "wof:geom_alt":[
@@ -1103,7 +1105,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1694639561,
+    "wof:lastmodified":1695881220,
     "wof:name":"Vanuatu",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

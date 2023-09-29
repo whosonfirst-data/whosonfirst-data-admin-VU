@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139769,
-    "geom:area_square_m":1632193979.271445,
+    "geom:area_square_m":1632193892.009336,
     "geom:bbox":"168.98227,-20.253106,169.898936,-18.618259",
     "geom:latitude":-19.188794,
     "geom:longitude":169.274842,
@@ -282,13 +282,15 @@
         "gn:id":2134739,
         "gp:id":20069887,
         "hasc:id":"VU.TF",
+        "iso:code":"VU-TAE",
         "iso:id":"VU-TAE",
         "qs_pg:id":892861,
         "wd:id":"Q576417",
         "wk:page":"Tafea Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VU",
-    "wof:geomhash":"3e6051e0e5eb403b18edb824b7be7241",
+    "wof:geomhash":"950eabb5840f5925137934b811c9cd35",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -307,7 +309,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690921632,
+    "wof:lastmodified":1695884956,
     "wof:name":"Tafea",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102266,
-    "geom:area_square_m":1218634530.017439,
+    "geom:area_square_m":1218634275.646873,
     "geom:bbox":"167.672862,-15.992446,168.270356,-14.915785",
     "geom:latitude":-15.483539,
     "geom:longitude":168.050771,
@@ -280,13 +280,15 @@
         "gn:id":2208266,
         "gp:id":20069885,
         "hasc:id":"VU.PM",
+        "iso:code":"VU-PAM",
         "iso:id":"VU-PAM",
         "qs_pg:id":1184930,
         "wd:id":"Q836649",
         "wk:page":"Penama Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VU",
-    "wof:geomhash":"6e346c7ace9097a01a9b3fcf523b3cba",
+    "wof:geomhash":"3b6a7e8b0c0005375ec07c6efb61ac3b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -305,7 +307,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690921631,
+    "wof:lastmodified":1695884956,
     "wof:name":"Penama",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

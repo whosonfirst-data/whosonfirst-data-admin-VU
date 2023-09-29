@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364083,
-    "geom:area_square_m":4343303816.585856,
+    "geom:area_square_m":4343305133.481791,
     "geom:bbox":"166.522634,-15.751235,167.247244,-14.625258",
     "geom:latitude":-15.254289,
     "geom:longitude":166.871465,
@@ -287,14 +287,16 @@
         "gn:id":2134898,
         "gp:id":20069884,
         "hasc:id":"VU.SN",
+        "iso:code":"VU-SAM",
         "iso:id":"VU-SAM",
         "qs_pg:id":1184886,
         "unlc:id":"VU-SAM",
         "wd:id":"Q740640",
         "wk:page":"Sanma Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VU",
-    "wof:geomhash":"fbe05b7721f2c60370c345ab0ff41b57",
+    "wof:geomhash":"438cd577ac48b54185e8e15f4204cf3c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -313,7 +315,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690921631,
+    "wof:lastmodified":1695884956,
     "wof:name":"Sanma",
     "wof:parent_id":85632263,
     "wof:placetype":"region",

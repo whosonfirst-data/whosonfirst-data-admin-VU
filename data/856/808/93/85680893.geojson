@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124431,
-    "geom:area_square_m":1468608141.874684,
+    "geom:area_square_m":1468607049.364731,
     "geom:bbox":"168.120372,-17.823663,168.597016,-16.573012",
     "geom:latitude":-17.344022,
     "geom:longitude":168.343008,
@@ -289,13 +289,15 @@
         "gn:id":2208267,
         "gp:id":20069888,
         "hasc:id":"VU.SE",
+        "iso:code":"VU-SEE",
         "iso:id":"VU-SEE",
         "qs_pg:id":223735,
         "wd:id":"Q650617",
         "wk:page":"Shefa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"VU",
-    "wof:geomhash":"f415250ed2f861fd7bd2b111c5b4bf1e",
+    "wof:geomhash":"92e869cd6f5b6f7e2c2ac9f9ed99566d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -314,7 +316,7 @@
         "eng",
         "fra"
     ],
-    "wof:lastmodified":1690921630,
+    "wof:lastmodified":1695884956,
     "wof:name":"Shefa",
     "wof:parent_id":85632263,
     "wof:placetype":"region",
